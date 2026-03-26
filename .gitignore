@@ -1,0 +1,13 @@
+data/images/
+data/raw/
+*.jpg
+*.jpeg
+*.png
+*.pt
+*.pth
+*.bin
+*.safetensors
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+train/group*/checkpoint-*/

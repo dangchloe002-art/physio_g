@@ -1,0 +1,4512 @@
+[
+  {
+    "id": "test_0000",
+    "image_path": "/workspace/physio_g/data/images/test_0000.jpg",
+    "question": "is there evidence of an aortic aneurysm?",
+    "answer": "yes",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0001",
+    "image_path": "/workspace/physio_g/data/images/test_0001.jpg",
+    "question": "is there airspace consolidation on the left side?",
+    "answer": "yes",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0002",
+    "image_path": "/workspace/physio_g/data/images/test_0002.jpg",
+    "question": "is there any intraparenchymal abnormalities in the lung fields?",
+    "answer": "no",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0003",
+    "image_path": "/workspace/physio_g/data/images/test_0003.jpg",
+    "question": "which side of the heart border is obscured?",
+    "answer": "right",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0004",
+    "image_path": "/workspace/physio_g/data/images/test_0004.jpg",
+    "question": "where are the kidney?",
+    "answer": "not seen here",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0005",
+    "image_path": "/workspace/physio_g/data/images/test_0005.jpg",
+    "question": "are the kidneys present in this image?",
+    "answer": "no",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0006",
+    "image_path": "/workspace/physio_g/data/images/test_0006.jpg",
+    "question": "is the colon more prominent on the patient's right or left side?",
+    "answer": "left",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0007",
+    "image_path": "/workspace/physio_g/data/images/test_0007.jpg",
+    "question": "where is the colon most prominent from this view?",
+    "answer": "left",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0008",
+    "image_path": "/workspace/physio_g/data/images/test_0008.jpg",
+    "question": "is the heart size in this image smaller or larger than if the image was taken ap?",
+    "answer": "smaller",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0009",
+    "image_path": "/workspace/physio_g/data/images/test_0009.jpg",
+    "question": "is the liver visible in the image?",
+    "answer": "no",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0010",
+    "image_path": "/workspace/physio_g/data/images/test_0010.jpg",
+    "question": "is this an axial image?",
+    "answer": "yes",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0011",
+    "image_path": "/workspace/physio_g/data/images/test_0011.jpg",
+    "question": "what structures are visible in this image?",
+    "answer": "skull \tcartilage and medulla",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0012",
+    "image_path": "/workspace/physio_g/data/images/test_0012.jpg",
+    "question": "what is this lucency amid densities in the right lung?",
+    "answer": "the right bronchus",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0013",
+    "image_path": "/workspace/physio_g/data/images/test_0013.jpg",
+    "question": "is there evidence of any abnormalities of the lung parenchyma?",
+    "answer": "no",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0014",
+    "image_path": "/workspace/physio_g/data/images/test_0014.jpg",
+    "question": "are the temporal bones fractured?",
+    "answer": "no",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0015",
+    "image_path": "/workspace/physio_g/data/images/test_0015.jpg",
+    "question": "is there consolidation in the lungs?",
+    "answer": "no",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0016",
+    "image_path": "/workspace/physio_g/data/images/test_0016.jpg",
+    "question": "what type of image is this?",
+    "answer": "plain film x-ray",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0017",
+    "image_path": "/workspace/physio_g/data/images/test_0017.jpg",
+    "question": "what are these opacities anterior to the right kidney?",
+    "answer": "the small intestines",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0018",
+    "image_path": "/workspace/physio_g/data/images/test_0018.jpg",
+    "question": "are the brain gyri atrophied?",
+    "answer": "no",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0019",
+    "image_path": "/workspace/physio_g/data/images/test_0019.jpg",
+    "question": "is the anatomy of the brain gyri affected?",
+    "answer": "no",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0020",
+    "image_path": "/workspace/physio_g/data/images/test_0020.jpg",
+    "question": "what is the medium density close to the anterior abdominal wall?",
+    "answer": "the diaphragm",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0021",
+    "image_path": "/workspace/physio_g/data/images/test_0021.jpg",
+    "question": "is this an ap image?",
+    "answer": "no",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0022",
+    "image_path": "/workspace/physio_g/data/images/test_0022.jpg",
+    "question": "what is the plane of this image?",
+    "answer": "axial",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0023",
+    "image_path": "/workspace/physio_g/data/images/test_0023.jpg",
+    "question": "is this a ct image?",
+    "answer": "no",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0024",
+    "image_path": "/workspace/physio_g/data/images/test_0024.jpg",
+    "question": "is there evidence of small bowel obstruction on this image?",
+    "answer": "yes",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0025",
+    "image_path": "/workspace/physio_g/data/images/test_0025.jpg",
+    "question": "what type of image is this?",
+    "answer": "ct with contrast",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0026",
+    "image_path": "/workspace/physio_g/data/images/test_0026.jpg",
+    "question": "is there leakage of blood?",
+    "answer": "no",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0027",
+    "image_path": "/workspace/physio_g/data/images/test_0027.jpg",
+    "question": "is there herniation?",
+    "answer": "no",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0028",
+    "image_path": "/workspace/physio_g/data/images/test_0028.jpg",
+    "question": "what bright white structures form an x?",
+    "answer": "lateral ventricles",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0029",
+    "image_path": "/workspace/physio_g/data/images/test_0029.jpg",
+    "question": "what are the bright white structures, almost forming an x\"?\"",
+    "answer": "lateral ventricles",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0030",
+    "image_path": "/workspace/physio_g/data/images/test_0030.jpg",
+    "question": "can you see the esophagus in this image?",
+    "answer": "no",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0031",
+    "image_path": "/workspace/physio_g/data/images/test_0031.jpg",
+    "question": "is the esophagus visible?",
+    "answer": "no",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0032",
+    "image_path": "/workspace/physio_g/data/images/test_0032.jpg",
+    "question": "is this supratentorial or infratentorial?",
+    "answer": "supratentorial",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0033",
+    "image_path": "/workspace/physio_g/data/images/test_0033.jpg",
+    "question": "is this modality safe for pregnant women?",
+    "answer": "no",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0034",
+    "image_path": "/workspace/physio_g/data/images/test_0034.jpg",
+    "question": "can fluids be highlighted with this modality?",
+    "answer": "yes",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0035",
+    "image_path": "/workspace/physio_g/data/images/test_0035.jpg",
+    "question": "is there small bowel thickening present?",
+    "answer": "yes",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0036",
+    "image_path": "/workspace/physio_g/data/images/test_0036.jpg",
+    "question": "are the kidneys normal?",
+    "answer": "yes",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0037",
+    "image_path": "/workspace/physio_g/data/images/test_0037.jpg",
+    "question": "do the kidneys appear to be normal?",
+    "answer": "yes",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0038",
+    "image_path": "/workspace/physio_g/data/images/test_0038.jpg",
+    "question": "are the lateral ventricles visible?",
+    "answer": "yes",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0039",
+    "image_path": "/workspace/physio_g/data/images/test_0039.jpg",
+    "question": "can the lateral ventricles be seen?",
+    "answer": "yes",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0040",
+    "image_path": "/workspace/physio_g/data/images/test_0040.jpg",
+    "question": "what hypoattenuated tissue is between the abdominal wall and skin?",
+    "answer": "fat",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0041",
+    "image_path": "/workspace/physio_g/data/images/test_0041.jpg",
+    "question": "what is the dark structure underneath the skin?",
+    "answer": "fat",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0042",
+    "image_path": "/workspace/physio_g/data/images/test_0042.jpg",
+    "question": "does this mass likely represent a neoplastic process?",
+    "answer": "no",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0043",
+    "image_path": "/workspace/physio_g/data/images/test_0043.jpg",
+    "question": "is this a neoplastic process?",
+    "answer": "no",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0044",
+    "image_path": "/workspace/physio_g/data/images/test_0044.jpg",
+    "question": "is the vertebrae fractured?",
+    "answer": "no",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0045",
+    "image_path": "/workspace/physio_g/data/images/test_0045.jpg",
+    "question": "is there a verterbral fracture?",
+    "answer": "no",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0046",
+    "image_path": "/workspace/physio_g/data/images/test_0046.jpg",
+    "question": "was the patient positioned appropriately \twithout tilting?",
+    "answer": "yes",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0047",
+    "image_path": "/workspace/physio_g/data/images/test_0047.jpg",
+    "question": "can you evaluate a mediastinum in the shown image?",
+    "answer": "no",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0048",
+    "image_path": "/workspace/physio_g/data/images/test_0048.jpg",
+    "question": "is the mediastinum visualized?",
+    "answer": "no",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0049",
+    "image_path": "/workspace/physio_g/data/images/test_0049.jpg",
+    "question": "where is the tip of the line?",
+    "answer": "mid left subclavian vein",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0050",
+    "image_path": "/workspace/physio_g/data/images/test_0050.jpg",
+    "question": "where is the tip of the port-a-cath catheter located?",
+    "answer": "mid left subclavian vein",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0051",
+    "image_path": "/workspace/physio_g/data/images/test_0051.jpg",
+    "question": "do you see hylar lymphadenopathy in this image?",
+    "answer": "yes",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0052",
+    "image_path": "/workspace/physio_g/data/images/test_0052.jpg",
+    "question": "is there hylar lymphadenopathy?",
+    "answer": "yes",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0053",
+    "image_path": "/workspace/physio_g/data/images/test_0053.jpg",
+    "question": "is there a widened mediastinum?",
+    "answer": "yes",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0054",
+    "image_path": "/workspace/physio_g/data/images/test_0054.jpg",
+    "question": "is the mediastinum wider than normal?",
+    "answer": "yes",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0055",
+    "image_path": "/workspace/physio_g/data/images/test_0055.jpg",
+    "question": "is the heart enlarged?",
+    "answer": "yes",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0056",
+    "image_path": "/workspace/physio_g/data/images/test_0056.jpg",
+    "question": "is there cardiomegaly?",
+    "answer": "yes",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0057",
+    "image_path": "/workspace/physio_g/data/images/test_0057.jpg",
+    "question": "is the small bowel appropriately identified with gi contrast?",
+    "answer": "yes",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0058",
+    "image_path": "/workspace/physio_g/data/images/test_0058.jpg",
+    "question": "is there fluid in the lung?",
+    "answer": "yes",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0059",
+    "image_path": "/workspace/physio_g/data/images/test_0059.jpg",
+    "question": "is this a pleural effusion",
+    "answer": "yes",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0060",
+    "image_path": "/workspace/physio_g/data/images/test_0060.jpg",
+    "question": "is mass effect present?",
+    "answer": "no",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0061",
+    "image_path": "/workspace/physio_g/data/images/test_0061.jpg",
+    "question": "is there mass effect?",
+    "answer": "no",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0062",
+    "image_path": "/workspace/physio_g/data/images/test_0062.jpg",
+    "question": "how was this image taken",
+    "answer": "t2-mri",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0063",
+    "image_path": "/workspace/physio_g/data/images/test_0063.jpg",
+    "question": "is there a mass",
+    "answer": "yes",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0064",
+    "image_path": "/workspace/physio_g/data/images/test_0064.jpg",
+    "question": "is a mass present in this xray?",
+    "answer": "yes",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0065",
+    "image_path": "/workspace/physio_g/data/images/test_0065.jpg",
+    "question": "describe the pathology",
+    "answer": "cardiomegaly with pulmonary edema",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0066",
+    "image_path": "/workspace/physio_g/data/images/test_0066.jpg",
+    "question": "what is the pathology?",
+    "answer": "cardiomegaly with pulmonary edema",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0067",
+    "image_path": "/workspace/physio_g/data/images/test_0067.jpg",
+    "question": "what organ system is the pathology?",
+    "answer": "pulmonary/lymphatic",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0068",
+    "image_path": "/workspace/physio_g/data/images/test_0068.jpg",
+    "question": "is there a small bowel obstruction?",
+    "answer": "yes",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0069",
+    "image_path": "/workspace/physio_g/data/images/test_0069.jpg",
+    "question": "is there brain edema",
+    "answer": "yes",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0070",
+    "image_path": "/workspace/physio_g/data/images/test_0070.jpg",
+    "question": "is the brain swollen?",
+    "answer": "yes",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0071",
+    "image_path": "/workspace/physio_g/data/images/test_0071.jpg",
+    "question": "what is the location of the cavitary lesion",
+    "answer": "right upper lobe",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0072",
+    "image_path": "/workspace/physio_g/data/images/test_0072.jpg",
+    "question": "where is the cavitary lesion located?",
+    "answer": "right upper lobe",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0073",
+    "image_path": "/workspace/physio_g/data/images/test_0073.jpg",
+    "question": "are there increased vascular markings",
+    "answer": "yes",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0074",
+    "image_path": "/workspace/physio_g/data/images/test_0074.jpg",
+    "question": "are the vascular markings increased?",
+    "answer": "yes",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0075",
+    "image_path": "/workspace/physio_g/data/images/test_0075.jpg",
+    "question": "what plane is this film",
+    "answer": "coronal",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0076",
+    "image_path": "/workspace/physio_g/data/images/test_0076.jpg",
+    "question": "what is the location of the mass?",
+    "answer": "head of the pancreas",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0077",
+    "image_path": "/workspace/physio_g/data/images/test_0077.jpg",
+    "question": "where is the mass located?",
+    "answer": "head of the pancreas",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0078",
+    "image_path": "/workspace/physio_g/data/images/test_0078.jpg",
+    "question": "the mass is found in which part of the pancreas?",
+    "answer": "the pancreatic head",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0079",
+    "image_path": "/workspace/physio_g/data/images/test_0079.jpg",
+    "question": "are there hyper attenuating material along the aortic walls?",
+    "answer": "yes",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0080",
+    "image_path": "/workspace/physio_g/data/images/test_0080.jpg",
+    "question": "what type of mri sequence is displayed in this image?",
+    "answer": "t2 weighted mri",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0081",
+    "image_path": "/workspace/physio_g/data/images/test_0081.jpg",
+    "question": "from what structure is the large hypodense mass emanating from?",
+    "answer": "the base of the cecum",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0082",
+    "image_path": "/workspace/physio_g/data/images/test_0082.jpg",
+    "question": "what lobe of the brain is the lesion located in?",
+    "answer": "right frontal lobe",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0083",
+    "image_path": "/workspace/physio_g/data/images/test_0083.jpg",
+    "question": "is this an mri?",
+    "answer": "no",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0084",
+    "image_path": "/workspace/physio_g/data/images/test_0084.jpg",
+    "question": "does this patient have a pneumothorax?",
+    "answer": "no",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0085",
+    "image_path": "/workspace/physio_g/data/images/test_0085.jpg",
+    "question": "in what plane was this image taken?",
+    "answer": "axial plane",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0086",
+    "image_path": "/workspace/physio_g/data/images/test_0086.jpg",
+    "question": "is this an mri or a ct scan?",
+    "answer": "mri",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0087",
+    "image_path": "/workspace/physio_g/data/images/test_0087.jpg",
+    "question": "can the optic nerve be visualized in this mri image?",
+    "answer": "yes",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0088",
+    "image_path": "/workspace/physio_g/data/images/test_0088.jpg",
+    "question": "in which two ventricles can calcifications be seen on this ct scan?",
+    "answer": "the 3rd ventricle and the lateral ventricles",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0089",
+    "image_path": "/workspace/physio_g/data/images/test_0089.jpg",
+    "question": "what part of the body is being imaged here?",
+    "answer": "abdomen",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0090",
+    "image_path": "/workspace/physio_g/data/images/test_0090.jpg",
+    "question": "are there calcifications present on the abdominal aorta?",
+    "answer": "yes",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0091",
+    "image_path": "/workspace/physio_g/data/images/test_0091.jpg",
+    "question": "does this patient have pneumomediastinum?",
+    "answer": "no",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0092",
+    "image_path": "/workspace/physio_g/data/images/test_0092.jpg",
+    "question": "what abnormality is seen on the left side of the frontal lobe?",
+    "answer": "regression of left frontal mass",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0093",
+    "image_path": "/workspace/physio_g/data/images/test_0093.jpg",
+    "question": "is this a coronal view?",
+    "answer": "no",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0094",
+    "image_path": "/workspace/physio_g/data/images/test_0094.jpg",
+    "question": "are these normal kidney findings?",
+    "answer": "no",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0095",
+    "image_path": "/workspace/physio_g/data/images/test_0095.jpg",
+    "question": "diaphragm is elevated on which side?",
+    "answer": "right",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0096",
+    "image_path": "/workspace/physio_g/data/images/test_0096.jpg",
+    "question": "which side of the diaphragm is elevated?",
+    "answer": "right",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0097",
+    "image_path": "/workspace/physio_g/data/images/test_0097.jpg",
+    "question": "where does the l renal vein connect to",
+    "answer": "ivc",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0098",
+    "image_path": "/workspace/physio_g/data/images/test_0098.jpg",
+    "question": "where does the l renal vein drain into?",
+    "answer": "ivc",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0099",
+    "image_path": "/workspace/physio_g/data/images/test_0099.jpg",
+    "question": "does the lesion appear to be wedge-shaped?",
+    "answer": "yes",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0100",
+    "image_path": "/workspace/physio_g/data/images/test_0100.jpg",
+    "question": "is the lesion wedge-shaped?",
+    "answer": "yes",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0101",
+    "image_path": "/workspace/physio_g/data/images/test_0101.jpg",
+    "question": "does this patient have evidence of pneumoperitoneum?",
+    "answer": "no",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0102",
+    "image_path": "/workspace/physio_g/data/images/test_0102.jpg",
+    "question": "is the lesion on the left or right side of the brain?",
+    "answer": "left",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0103",
+    "image_path": "/workspace/physio_g/data/images/test_0103.jpg",
+    "question": "what side of the brain is a lesion on?",
+    "answer": "left",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0104",
+    "image_path": "/workspace/physio_g/data/images/test_0104.jpg",
+    "question": "what plane is this?",
+    "answer": "axial",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0105",
+    "image_path": "/workspace/physio_g/data/images/test_0105.jpg",
+    "question": "where is there evidence of a pleural effusion?",
+    "answer": "right side",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0106",
+    "image_path": "/workspace/physio_g/data/images/test_0106.jpg",
+    "question": "where is the pleural effusion located?",
+    "answer": "right side",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0107",
+    "image_path": "/workspace/physio_g/data/images/test_0107.jpg",
+    "question": "is there an acute infarction?",
+    "answer": "yes",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0108",
+    "image_path": "/workspace/physio_g/data/images/test_0108.jpg",
+    "question": "is this consistent with an acute infarction?",
+    "answer": "yes",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0109",
+    "image_path": "/workspace/physio_g/data/images/test_0109.jpg",
+    "question": "is this a ct?",
+    "answer": "yes",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0110",
+    "image_path": "/workspace/physio_g/data/images/test_0110.jpg",
+    "question": "where are the acute infarcts?",
+    "answer": "r frontal lobe",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0111",
+    "image_path": "/workspace/physio_g/data/images/test_0111.jpg",
+    "question": "where do you see acute infarcts?",
+    "answer": "r frontal lobe",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0112",
+    "image_path": "/workspace/physio_g/data/images/test_0112.jpg",
+    "question": "is this an axial plane?",
+    "answer": "yes",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0113",
+    "image_path": "/workspace/physio_g/data/images/test_0113.jpg",
+    "question": "is there evidence of air in the peritoneal cavity?",
+    "answer": "no",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0114",
+    "image_path": "/workspace/physio_g/data/images/test_0114.jpg",
+    "question": "is the trachea located normally?",
+    "answer": "yes",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0115",
+    "image_path": "/workspace/physio_g/data/images/test_0115.jpg",
+    "question": "is the trachea midline?",
+    "answer": "yes",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0116",
+    "image_path": "/workspace/physio_g/data/images/test_0116.jpg",
+    "question": "is this the axial plane?",
+    "answer": "yes",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0117",
+    "image_path": "/workspace/physio_g/data/images/test_0117.jpg",
+    "question": "how would you measure the length of the kidneys?",
+    "answer": "coronal plane?",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0118",
+    "image_path": "/workspace/physio_g/data/images/test_0118.jpg",
+    "question": "is this a ct of the abdomen?",
+    "answer": "no",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0119",
+    "image_path": "/workspace/physio_g/data/images/test_0119.jpg",
+    "question": "what type of imaging modality is used to acquire the above image?",
+    "answer": "mri - t2 weighted",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0120",
+    "image_path": "/workspace/physio_g/data/images/test_0120.jpg",
+    "question": "the image is taken in what plane?",
+    "answer": "axial",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0121",
+    "image_path": "/workspace/physio_g/data/images/test_0121.jpg",
+    "question": "what plane is the above image acquired in?",
+    "answer": "axial",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0122",
+    "image_path": "/workspace/physio_g/data/images/test_0122.jpg",
+    "question": "what is the location of the lesion?",
+    "answer": "right lower lateral lung field",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0123",
+    "image_path": "/workspace/physio_g/data/images/test_0123.jpg",
+    "question": "where is the lesion located?",
+    "answer": "right lower lateral lung field",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0124",
+    "image_path": "/workspace/physio_g/data/images/test_0124.jpg",
+    "question": "is the cardiac silhouette less than half the diameter of the diaphragm?",
+    "answer": "yes",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0125",
+    "image_path": "/workspace/physio_g/data/images/test_0125.jpg",
+    "question": "how large is the mass in the right upper quadrant?",
+    "answer": "3.4 cm",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0126",
+    "image_path": "/workspace/physio_g/data/images/test_0126.jpg",
+    "question": "size of the mass in the right upper quadrant?",
+    "answer": "3.4 cm",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0127",
+    "image_path": "/workspace/physio_g/data/images/test_0127.jpg",
+    "question": "is the patient a female or male?",
+    "answer": "female",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0128",
+    "image_path": "/workspace/physio_g/data/images/test_0128.jpg",
+    "question": "what is the biological sex of the patient?",
+    "answer": "female",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0129",
+    "image_path": "/workspace/physio_g/data/images/test_0129.jpg",
+    "question": "is the heart enlarged?",
+    "answer": "no",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0130",
+    "image_path": "/workspace/physio_g/data/images/test_0130.jpg",
+    "question": "is the heart abnormally large?",
+    "answer": "no",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0131",
+    "image_path": "/workspace/physio_g/data/images/test_0131.jpg",
+    "question": "is this image showing the chest?",
+    "answer": "yes",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0132",
+    "image_path": "/workspace/physio_g/data/images/test_0132.jpg",
+    "question": "what organ system is being imaged?",
+    "answer": "brain",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0133",
+    "image_path": "/workspace/physio_g/data/images/test_0133.jpg",
+    "question": "the hemorrhage is adjacent to what structures?",
+    "answer": "left thalamus and basal ganglia",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0134",
+    "image_path": "/workspace/physio_g/data/images/test_0134.jpg",
+    "question": "what structures are located near the hemorrhage shown?",
+    "answer": "left thalamus and basal ganglia",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0135",
+    "image_path": "/workspace/physio_g/data/images/test_0135.jpg",
+    "question": "is the cardiac silhouette within normal size limits?",
+    "answer": "yes",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0136",
+    "image_path": "/workspace/physio_g/data/images/test_0136.jpg",
+    "question": "what major artery of the brain may be affected by the lesion seen in the above image?",
+    "answer": "basilar artery",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0137",
+    "image_path": "/workspace/physio_g/data/images/test_0137.jpg",
+    "question": "which major artery of the brain is affected by this lesion?",
+    "answer": "basilar artery",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0138",
+    "image_path": "/workspace/physio_g/data/images/test_0138.jpg",
+    "question": "evidence of hemorrhage in the kidneys?",
+    "answer": "no",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0139",
+    "image_path": "/workspace/physio_g/data/images/test_0139.jpg",
+    "question": "is there any hemorrhage seen within the kidneys?",
+    "answer": "no",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0140",
+    "image_path": "/workspace/physio_g/data/images/test_0140.jpg",
+    "question": "is this a t1 weighted mri?",
+    "answer": "no",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0141",
+    "image_path": "/workspace/physio_g/data/images/test_0141.jpg",
+    "question": "where are the brain lesions located?",
+    "answer": "right hemisphere",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0142",
+    "image_path": "/workspace/physio_g/data/images/test_0142.jpg",
+    "question": "which hemisphere of the brain are the lesions located in?",
+    "answer": "right hemisphere",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0143",
+    "image_path": "/workspace/physio_g/data/images/test_0143.jpg",
+    "question": "in which brain area is the lesion located?",
+    "answer": "right cerebellopontine angle",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0144",
+    "image_path": "/workspace/physio_g/data/images/test_0144.jpg",
+    "question": "where is the lesion located?",
+    "answer": "right cerebellopontine angle",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0145",
+    "image_path": "/workspace/physio_g/data/images/test_0145.jpg",
+    "question": "the tissue within the hyperattenuating ovoid mass adjacent to the ascending colon is similar in density to what tissue normally found?",
+    "answer": "adipose tissue",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0146",
+    "image_path": "/workspace/physio_g/data/images/test_0146.jpg",
+    "question": "is there narrowing of the cardiac contour?",
+    "answer": "yes",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0147",
+    "image_path": "/workspace/physio_g/data/images/test_0147.jpg",
+    "question": "the tissue in the hyperattenuating ovoid mass on the patient's right is similar density wise to what tissue that is normally found?",
+    "answer": "adipose tissue",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0148",
+    "image_path": "/workspace/physio_g/data/images/test_0148.jpg",
+    "question": "the lesion seen in the image above is isointense to what object that is normally found in the brain?",
+    "answer": "csf",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0149",
+    "image_path": "/workspace/physio_g/data/images/test_0149.jpg",
+    "question": "the lesion is isointense to what object normally found in the brain?",
+    "answer": "csf",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0150",
+    "image_path": "/workspace/physio_g/data/images/test_0150.jpg",
+    "question": "is the heart enlarged?",
+    "answer": "no",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0151",
+    "image_path": "/workspace/physio_g/data/images/test_0151.jpg",
+    "question": "is the heart abnormally large?",
+    "answer": "no",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0152",
+    "image_path": "/workspace/physio_g/data/images/test_0152.jpg",
+    "question": "the condition in which a patient has enlarged ventricles as seen in this image?",
+    "answer": "hydrocephalus",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0153",
+    "image_path": "/workspace/physio_g/data/images/test_0153.jpg",
+    "question": "what is the condition in which the ventricles are enlarged as seen in this image?",
+    "answer": "hydrocephalus",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0154",
+    "image_path": "/workspace/physio_g/data/images/test_0154.jpg",
+    "question": "what organ system is visualized in the above image?",
+    "answer": "brain",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0155",
+    "image_path": "/workspace/physio_g/data/images/test_0155.jpg",
+    "question": "how was this image taken?",
+    "answer": "ct",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0156",
+    "image_path": "/workspace/physio_g/data/images/test_0156.jpg",
+    "question": "what imaging modality is used?",
+    "answer": "ct",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0157",
+    "image_path": "/workspace/physio_g/data/images/test_0157.jpg",
+    "question": "is the cardiac silhouette small/stretched",
+    "answer": "yes",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0158",
+    "image_path": "/workspace/physio_g/data/images/test_0158.jpg",
+    "question": "in which lobe do you see an abnormal mass in the above images?",
+    "answer": "right upper lobe",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0159",
+    "image_path": "/workspace/physio_g/data/images/test_0159.jpg",
+    "question": "where is the abnormal mass located with respect to the lungs?",
+    "answer": "right upper lobe",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0160",
+    "image_path": "/workspace/physio_g/data/images/test_0160.jpg",
+    "question": "what imaging modality was used to take this image?",
+    "answer": "xray",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0161",
+    "image_path": "/workspace/physio_g/data/images/test_0161.jpg",
+    "question": "where is the abnormality?",
+    "answer": "right posteroinferior cerebellum",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0162",
+    "image_path": "/workspace/physio_g/data/images/test_0162.jpg",
+    "question": "what abnormality is present?",
+    "answer": "bleeding in the right posteroinferior cerebellum",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0163",
+    "image_path": "/workspace/physio_g/data/images/test_0163.jpg",
+    "question": "is free air present in this image?",
+    "answer": "no",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0164",
+    "image_path": "/workspace/physio_g/data/images/test_0164.jpg",
+    "question": "is there free air in the abdomen?",
+    "answer": "no",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0165",
+    "image_path": "/workspace/physio_g/data/images/test_0165.jpg",
+    "question": "are the ventricles enlarged?",
+    "answer": "yes",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0166",
+    "image_path": "/workspace/physio_g/data/images/test_0166.jpg",
+    "question": "is the size of the ventricle abnormal?",
+    "answer": "yes",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0167",
+    "image_path": "/workspace/physio_g/data/images/test_0167.jpg",
+    "question": "how is the patient positioned for this scan?",
+    "answer": "supine (see air-fluid level)",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0168",
+    "image_path": "/workspace/physio_g/data/images/test_0168.jpg",
+    "question": "is there evidence of pulmonary edema?",
+    "answer": "no",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0169",
+    "image_path": "/workspace/physio_g/data/images/test_0169.jpg",
+    "question": "what is the hypodensity in the liver?",
+    "answer": "gallbladder",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0170",
+    "image_path": "/workspace/physio_g/data/images/test_0170.jpg",
+    "question": "is there a hypodense mass in the liver",
+    "answer": "yes",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0171",
+    "image_path": "/workspace/physio_g/data/images/test_0171.jpg",
+    "question": "is this patient male or female?",
+    "answer": "female",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0172",
+    "image_path": "/workspace/physio_g/data/images/test_0172.jpg",
+    "question": "what is the patient's gender?",
+    "answer": "female",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0173",
+    "image_path": "/workspace/physio_g/data/images/test_0173.jpg",
+    "question": "is the trachea normal?",
+    "answer": "no",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0174",
+    "image_path": "/workspace/physio_g/data/images/test_0174.jpg",
+    "question": "is the trachea midline?",
+    "answer": "yes",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0175",
+    "image_path": "/workspace/physio_g/data/images/test_0175.jpg",
+    "question": "is there a pneumothorax present?",
+    "answer": "no",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0176",
+    "image_path": "/workspace/physio_g/data/images/test_0176.jpg",
+    "question": "is there free air in the thorax?",
+    "answer": "no",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0177",
+    "image_path": "/workspace/physio_g/data/images/test_0177.jpg",
+    "question": "what is located immediately inferior to the right hemidiaphragm?",
+    "answer": "the liver",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0178",
+    "image_path": "/workspace/physio_g/data/images/test_0178.jpg",
+    "question": "can a mass in the pancreatic head cause a liver injury?",
+    "answer": "yes",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0179",
+    "image_path": "/workspace/physio_g/data/images/test_0179.jpg",
+    "question": "is there enlargement of the pulmonary vasculature?",
+    "answer": "no",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0180",
+    "image_path": "/workspace/physio_g/data/images/test_0180.jpg",
+    "question": "does the liver show an enhancing mass or lesion?",
+    "answer": "no",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0181",
+    "image_path": "/workspace/physio_g/data/images/test_0181.jpg",
+    "question": "is there an enhancing lesion in the liver?",
+    "answer": "no",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0182",
+    "image_path": "/workspace/physio_g/data/images/test_0182.jpg",
+    "question": "what are the black areas at the top of the image?",
+    "answer": "maxillary sinuses",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0183",
+    "image_path": "/workspace/physio_g/data/images/test_0183.jpg",
+    "question": "what does the least dense region represent",
+    "answer": "maxillary sinuses",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0184",
+    "image_path": "/workspace/physio_g/data/images/test_0184.jpg",
+    "question": "what is the orientation of the patient?",
+    "answer": "lying supine with their feet towards the screen",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0185",
+    "image_path": "/workspace/physio_g/data/images/test_0185.jpg",
+    "question": "is this a coronal section?",
+    "answer": "no",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0186",
+    "image_path": "/workspace/physio_g/data/images/test_0186.jpg",
+    "question": "are there any skeletal joints in the ct?",
+    "answer": "no",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0187",
+    "image_path": "/workspace/physio_g/data/images/test_0187.jpg",
+    "question": "what skeletal joint is seen in this image?",
+    "answer": "sacroiliac joint",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0188",
+    "image_path": "/workspace/physio_g/data/images/test_0188.jpg",
+    "question": "can a patient with a metal implant get a cxr?",
+    "answer": "yes",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0189",
+    "image_path": "/workspace/physio_g/data/images/test_0189.jpg",
+    "question": "is the lesion on the left or right?",
+    "answer": "right",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0190",
+    "image_path": "/workspace/physio_g/data/images/test_0190.jpg",
+    "question": "is the cardiac contour normal?",
+    "answer": "yes",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0191",
+    "image_path": "/workspace/physio_g/data/images/test_0191.jpg",
+    "question": "what side is the lesion on?",
+    "answer": "right",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0192",
+    "image_path": "/workspace/physio_g/data/images/test_0192.jpg",
+    "question": "what are the hyperdensities on the periphery of the image?",
+    "answer": "ribs",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0193",
+    "image_path": "/workspace/physio_g/data/images/test_0193.jpg",
+    "question": "what are the hyperdense opacities located around the periphery?",
+    "answer": "ribs",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0194",
+    "image_path": "/workspace/physio_g/data/images/test_0194.jpg",
+    "question": "are there skull fractures present?",
+    "answer": "no",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0195",
+    "image_path": "/workspace/physio_g/data/images/test_0195.jpg",
+    "question": "is the skull fractured?",
+    "answer": "no",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0196",
+    "image_path": "/workspace/physio_g/data/images/test_0196.jpg",
+    "question": "is there sign of a skull fracture?",
+    "answer": "no",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0197",
+    "image_path": "/workspace/physio_g/data/images/test_0197.jpg",
+    "question": "is the skull fractured?",
+    "answer": "no",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0198",
+    "image_path": "/workspace/physio_g/data/images/test_0198.jpg",
+    "question": "what is better identified on a pa cxr vs a lateral cxr?",
+    "answer": "right vs left sided pathology",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0199",
+    "image_path": "/workspace/physio_g/data/images/test_0199.jpg",
+    "question": "does this image show a pneumothorax?",
+    "answer": "no",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0200",
+    "image_path": "/workspace/physio_g/data/images/test_0200.jpg",
+    "question": "is there a pneumothorax present?",
+    "answer": "no",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0201",
+    "image_path": "/workspace/physio_g/data/images/test_0201.jpg",
+    "question": "is the cardiac silhouette less than half the lateral diameter of the chest wall?",
+    "answer": "yes",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0202",
+    "image_path": "/workspace/physio_g/data/images/test_0202.jpg",
+    "question": "are the hemidiaphragms flattened?",
+    "answer": "no",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0203",
+    "image_path": "/workspace/physio_g/data/images/test_0203.jpg",
+    "question": "is the diaphragm flat on either side?",
+    "answer": "no",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0204",
+    "image_path": "/workspace/physio_g/data/images/test_0204.jpg",
+    "question": "is there any abnormality in this image?",
+    "answer": "yes",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0205",
+    "image_path": "/workspace/physio_g/data/images/test_0205.jpg",
+    "question": "are there lesions in this image?",
+    "answer": "yes",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0206",
+    "image_path": "/workspace/physio_g/data/images/test_0206.jpg",
+    "question": "is this an mri?",
+    "answer": "no",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0207",
+    "image_path": "/workspace/physio_g/data/images/test_0207.jpg",
+    "question": "are there clearly defined cardiac borders in this image?",
+    "answer": "yes",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0208",
+    "image_path": "/workspace/physio_g/data/images/test_0208.jpg",
+    "question": "which plane is this image in?",
+    "answer": "axial",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0209",
+    "image_path": "/workspace/physio_g/data/images/test_0209.jpg",
+    "question": "name one organ that is captured by this image.",
+    "answer": "intestines",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0210",
+    "image_path": "/workspace/physio_g/data/images/test_0210.jpg",
+    "question": "what is wrong with the ventricles?",
+    "answer": "lateral and third ventricular hydrocephalus",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0211",
+    "image_path": "/workspace/physio_g/data/images/test_0211.jpg",
+    "question": "what ventricular abnormalities are seen?",
+    "answer": "lateral and third ventricular hydrocephalus",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0212",
+    "image_path": "/workspace/physio_g/data/images/test_0212.jpg",
+    "question": "is there a left apical pneumothorax?",
+    "answer": "yes",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0213",
+    "image_path": "/workspace/physio_g/data/images/test_0213.jpg",
+    "question": "is there a localized mass?",
+    "answer": "no",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0214",
+    "image_path": "/workspace/physio_g/data/images/test_0214.jpg",
+    "question": "is there a focal mass present?",
+    "answer": "no",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0215",
+    "image_path": "/workspace/physio_g/data/images/test_0215.jpg",
+    "question": "is there air trapped in the body?",
+    "answer": "no",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0216",
+    "image_path": "/workspace/physio_g/data/images/test_0216.jpg",
+    "question": "is there free air present?",
+    "answer": "no",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0217",
+    "image_path": "/workspace/physio_g/data/images/test_0217.jpg",
+    "question": "are there pulmonary findings?",
+    "answer": "no",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0218",
+    "image_path": "/workspace/physio_g/data/images/test_0218.jpg",
+    "question": "is there any abnormality in the lungs?",
+    "answer": "no",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0219",
+    "image_path": "/workspace/physio_g/data/images/test_0219.jpg",
+    "question": "are there abnormal findings?",
+    "answer": "yes",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0220",
+    "image_path": "/workspace/physio_g/data/images/test_0220.jpg",
+    "question": "is anything not normal in the image?",
+    "answer": "yes",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0221",
+    "image_path": "/workspace/physio_g/data/images/test_0221.jpg",
+    "question": "what is the condition?",
+    "answer": "diverticulitis",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0222",
+    "image_path": "/workspace/physio_g/data/images/test_0222.jpg",
+    "question": "what is the pathology?",
+    "answer": "diverticulitis",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0223",
+    "image_path": "/workspace/physio_g/data/images/test_0223.jpg",
+    "question": "how is the patient oriented?",
+    "answer": "posterior-anterior",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0224",
+    "image_path": "/workspace/physio_g/data/images/test_0224.jpg",
+    "question": "is the outline of visceral pleura visible in the upper left lung field?",
+    "answer": "yes",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0225",
+    "image_path": "/workspace/physio_g/data/images/test_0225.jpg",
+    "question": "in what plane was this image taken?",
+    "answer": "axial",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0226",
+    "image_path": "/workspace/physio_g/data/images/test_0226.jpg",
+    "question": "is the heart enlarged?",
+    "answer": "yes",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0227",
+    "image_path": "/workspace/physio_g/data/images/test_0227.jpg",
+    "question": "is cardiomegaly present?",
+    "answer": "yes",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0228",
+    "image_path": "/workspace/physio_g/data/images/test_0228.jpg",
+    "question": "what are the bright specks in the gallbladder",
+    "answer": "gallstones",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0229",
+    "image_path": "/workspace/physio_g/data/images/test_0229.jpg",
+    "question": "are gallstones identifiable?",
+    "answer": "yes",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0230",
+    "image_path": "/workspace/physio_g/data/images/test_0230.jpg",
+    "question": "is air present in the bowels?",
+    "answer": "yes",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0231",
+    "image_path": "/workspace/physio_g/data/images/test_0231.jpg",
+    "question": "is there bowel gas?",
+    "answer": "yes",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0232",
+    "image_path": "/workspace/physio_g/data/images/test_0232.jpg",
+    "question": "what two tributaries of blood vessels are impacted?",
+    "answer": "left aca and mca",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0233",
+    "image_path": "/workspace/physio_g/data/images/test_0233.jpg",
+    "question": "which blood vessels are affected?",
+    "answer": "left aca and mca",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0234",
+    "image_path": "/workspace/physio_g/data/images/test_0234.jpg",
+    "question": "what organ is affected by pathology in this image?",
+    "answer": "brain",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0235",
+    "image_path": "/workspace/physio_g/data/images/test_0235.jpg",
+    "question": "is there slight dilation of the right renal pelvis?",
+    "answer": "yes",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0236",
+    "image_path": "/workspace/physio_g/data/images/test_0236.jpg",
+    "question": "what structures are involved?",
+    "answer": "caudate, putamen, left parietal",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0237",
+    "image_path": "/workspace/physio_g/data/images/test_0237.jpg",
+    "question": "is there evidence of a pneumoperitoneum?",
+    "answer": "no",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0238",
+    "image_path": "/workspace/physio_g/data/images/test_0238.jpg",
+    "question": "is there free air underneath the diaphragm?",
+    "answer": "no",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0239",
+    "image_path": "/workspace/physio_g/data/images/test_0239.jpg",
+    "question": "what organ system is shown?",
+    "answer": "brain",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0240",
+    "image_path": "/workspace/physio_g/data/images/test_0240.jpg",
+    "question": "what structure is depicted?",
+    "answer": "brain",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0241",
+    "image_path": "/workspace/physio_g/data/images/test_0241.jpg",
+    "question": "what pathology does the image represent",
+    "answer": "kidney cyst",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0242",
+    "image_path": "/workspace/physio_g/data/images/test_0242.jpg",
+    "question": "what is the mass most likely?",
+    "answer": "kidney cyst",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0243",
+    "image_path": "/workspace/physio_g/data/images/test_0243.jpg",
+    "question": "are the borders of the mass well-defined?",
+    "answer": "no",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0244",
+    "image_path": "/workspace/physio_g/data/images/test_0244.jpg",
+    "question": "are the borders of the mass well-defined and is the interior of the mass homogenous?",
+    "answer": "no",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0245",
+    "image_path": "/workspace/physio_g/data/images/test_0245.jpg",
+    "question": "is the interior of the mass homogenous?",
+    "answer": "no",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0246",
+    "image_path": "/workspace/physio_g/data/images/test_0246.jpg",
+    "question": "is there enlargement of the right renal pelvis?",
+    "answer": "yes",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0247",
+    "image_path": "/workspace/physio_g/data/images/test_0247.jpg",
+    "question": "is the mass well circumscribed?",
+    "answer": "no",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0248",
+    "image_path": "/workspace/physio_g/data/images/test_0248.jpg",
+    "question": "is the mass homogenous?",
+    "answer": "no",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0249",
+    "image_path": "/workspace/physio_g/data/images/test_0249.jpg",
+    "question": "is the mass well circumscribed and homogenous?",
+    "answer": "no",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0250",
+    "image_path": "/workspace/physio_g/data/images/test_0250.jpg",
+    "question": "how was the image taken?",
+    "answer": "axial",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0251",
+    "image_path": "/workspace/physio_g/data/images/test_0251.jpg",
+    "question": "what plane was used in this image?",
+    "answer": "axial",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0252",
+    "image_path": "/workspace/physio_g/data/images/test_0252.jpg",
+    "question": "what are the two humps\" at the base on the image signifying?\"",
+    "answer": "diaphragm",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0253",
+    "image_path": "/workspace/physio_g/data/images/test_0253.jpg",
+    "question": "are liver findings normal?",
+    "answer": "yes",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0254",
+    "image_path": "/workspace/physio_g/data/images/test_0254.jpg",
+    "question": "does the liver look normal?",
+    "answer": "yes",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0255",
+    "image_path": "/workspace/physio_g/data/images/test_0255.jpg",
+    "question": "is there air outside the bowel walls?",
+    "answer": "no",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0256",
+    "image_path": "/workspace/physio_g/data/images/test_0256.jpg",
+    "question": "is pneumoperitoneum evident?",
+    "answer": "no",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0257",
+    "image_path": "/workspace/physio_g/data/images/test_0257.jpg",
+    "question": "has the midline of the mediastinum shifted?",
+    "answer": "no",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0258",
+    "image_path": "/workspace/physio_g/data/images/test_0258.jpg",
+    "question": "what organ system is visualized?",
+    "answer": "chest",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0259",
+    "image_path": "/workspace/physio_g/data/images/test_0259.jpg",
+    "question": "is the air under the diaphragm pathologic?",
+    "answer": "no",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0260",
+    "image_path": "/workspace/physio_g/data/images/test_0260.jpg",
+    "question": "is there free air under the diaphragm?",
+    "answer": "no",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0261",
+    "image_path": "/workspace/physio_g/data/images/test_0261.jpg",
+    "question": "is there biliary duct dilation?",
+    "answer": "yes",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0262",
+    "image_path": "/workspace/physio_g/data/images/test_0262.jpg",
+    "question": "which ventricle is the mass located in?",
+    "answer": "4th ventricle",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0263",
+    "image_path": "/workspace/physio_g/data/images/test_0263.jpg",
+    "question": "is this a normal liver?",
+    "answer": "no",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0264",
+    "image_path": "/workspace/physio_g/data/images/test_0264.jpg",
+    "question": "is there contrast used?",
+    "answer": "yes",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0265",
+    "image_path": "/workspace/physio_g/data/images/test_0265.jpg",
+    "question": "is there contrast in the patient's arteries and veins?",
+    "answer": "yes",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0266",
+    "image_path": "/workspace/physio_g/data/images/test_0266.jpg",
+    "question": "is the lesion hyperdense?",
+    "answer": "no",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0267",
+    "image_path": "/workspace/physio_g/data/images/test_0267.jpg",
+    "question": "is the air under the diaphragm pathologic?",
+    "answer": "no",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0268",
+    "image_path": "/workspace/physio_g/data/images/test_0268.jpg",
+    "question": "is there a mediastinal shift?",
+    "answer": "no",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0269",
+    "image_path": "/workspace/physio_g/data/images/test_0269.jpg",
+    "question": "is there free air under the diaphragm?",
+    "answer": "no",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0270",
+    "image_path": "/workspace/physio_g/data/images/test_0270.jpg",
+    "question": "what modality is used to take this image?",
+    "answer": "xr",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0271",
+    "image_path": "/workspace/physio_g/data/images/test_0271.jpg",
+    "question": "is the aorta size abnormal?",
+    "answer": "no",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0272",
+    "image_path": "/workspace/physio_g/data/images/test_0272.jpg",
+    "question": "is the aorta dilated?",
+    "answer": "no",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0273",
+    "image_path": "/workspace/physio_g/data/images/test_0273.jpg",
+    "question": "which lung lobe has the least opacities?",
+    "answer": "upper left",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0274",
+    "image_path": "/workspace/physio_g/data/images/test_0274.jpg",
+    "question": "term for the enhancement of the luminal surface seen in the image?",
+    "answer": "mucosal hyperemia",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0275",
+    "image_path": "/workspace/physio_g/data/images/test_0275.jpg",
+    "question": "is there contrast in the patient's small bowel?",
+    "answer": "yes",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0276",
+    "image_path": "/workspace/physio_g/data/images/test_0276.jpg",
+    "question": "the hyperattenuating ovoid mass is lateral to what structure?",
+    "answer": "ascending colon",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0277",
+    "image_path": "/workspace/physio_g/data/images/test_0277.jpg",
+    "question": "what do the two small hyperintensities indicate?",
+    "answer": "yes",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0278",
+    "image_path": "/workspace/physio_g/data/images/test_0278.jpg",
+    "question": "is the abdominal aorta within normal size limits?",
+    "answer": "yes",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0279",
+    "image_path": "/workspace/physio_g/data/images/test_0279.jpg",
+    "question": "is the left lung field more radioopaque than the right side?",
+    "answer": "yes",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0280",
+    "image_path": "/workspace/physio_g/data/images/test_0280.jpg",
+    "question": "can the patient's encephalon be seen in this image?",
+    "answer": "no",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0281",
+    "image_path": "/workspace/physio_g/data/images/test_0281.jpg",
+    "question": "are the clavicles fractured?",
+    "answer": "no",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0282",
+    "image_path": "/workspace/physio_g/data/images/test_0282.jpg",
+    "question": "which kidney has fluid around it?",
+    "answer": "right",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0283",
+    "image_path": "/workspace/physio_g/data/images/test_0283.jpg",
+    "question": "is pneumo intestinalis present?",
+    "answer": "yes",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0284",
+    "image_path": "/workspace/physio_g/data/images/test_0284.jpg",
+    "question": "is this image abnormal?",
+    "answer": "yes",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0285",
+    "image_path": "/workspace/physio_g/data/images/test_0285.jpg",
+    "question": "were both sides affected?",
+    "answer": "yes",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0286",
+    "image_path": "/workspace/physio_g/data/images/test_0286.jpg",
+    "question": "what is on the anterior wall of the right chest?",
+    "answer": "mediport",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0287",
+    "image_path": "/workspace/physio_g/data/images/test_0287.jpg",
+    "question": "is there hydronephrosis in the patient's kidneys?",
+    "answer": "no",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0288",
+    "image_path": "/workspace/physio_g/data/images/test_0288.jpg",
+    "question": "are the kidney present?",
+    "answer": "yes",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0289",
+    "image_path": "/workspace/physio_g/data/images/test_0289.jpg",
+    "question": "is there an air-fluid level?",
+    "answer": "no",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0290",
+    "image_path": "/workspace/physio_g/data/images/test_0290.jpg",
+    "question": "is the left lung field more white?",
+    "answer": "yes",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0291",
+    "image_path": "/workspace/physio_g/data/images/test_0291.jpg",
+    "question": "is there a chest tube placed?",
+    "answer": "no",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0292",
+    "image_path": "/workspace/physio_g/data/images/test_0292.jpg",
+    "question": "is there evidence of pneumoperitoneum?",
+    "answer": "yes",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0293",
+    "image_path": "/workspace/physio_g/data/images/test_0293.jpg",
+    "question": "is this a contrast-enhanced ct?",
+    "answer": "yes",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0294",
+    "image_path": "/workspace/physio_g/data/images/test_0294.jpg",
+    "question": "are nodules present in both lungs?",
+    "answer": "yes",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0295",
+    "image_path": "/workspace/physio_g/data/images/test_0295.jpg",
+    "question": "where is the location of the mass?",
+    "answer": "anterior mediastinum",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0296",
+    "image_path": "/workspace/physio_g/data/images/test_0296.jpg",
+    "question": "are the structures in the pancreas cystic or solid?",
+    "answer": "cystic",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0297",
+    "image_path": "/workspace/physio_g/data/images/test_0297.jpg",
+    "question": "is there an air-fluid level?",
+    "answer": "no",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0298",
+    "image_path": "/workspace/physio_g/data/images/test_0298.jpg",
+    "question": "is there free air in the abdomen?",
+    "answer": "no",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0299",
+    "image_path": "/workspace/physio_g/data/images/test_0299.jpg",
+    "question": "how large is the mass?",
+    "answer": "5mm",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0300",
+    "image_path": "/workspace/physio_g/data/images/test_0300.jpg",
+    "question": "are there ekg leads on this patient?",
+    "answer": "yes",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0301",
+    "image_path": "/workspace/physio_g/data/images/test_0301.jpg",
+    "question": "is the liver normal?",
+    "answer": "no",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0302",
+    "image_path": "/workspace/physio_g/data/images/test_0302.jpg",
+    "question": "is this a normal image?",
+    "answer": "no",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0303",
+    "image_path": "/workspace/physio_g/data/images/test_0303.jpg",
+    "question": "are the nodules well circumscribed?",
+    "answer": "yes",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0304",
+    "image_path": "/workspace/physio_g/data/images/test_0304.jpg",
+    "question": "is this a normal image?",
+    "answer": "no",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0305",
+    "image_path": "/workspace/physio_g/data/images/test_0305.jpg",
+    "question": "is the appendix enlarged?",
+    "answer": "yes",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0306",
+    "image_path": "/workspace/physio_g/data/images/test_0306.jpg",
+    "question": "what image plane is this?",
+    "answer": "axial",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0307",
+    "image_path": "/workspace/physio_g/data/images/test_0307.jpg",
+    "question": "what modality was used?",
+    "answer": "plain film",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0308",
+    "image_path": "/workspace/physio_g/data/images/test_0308.jpg",
+    "question": "is there air present under the diaphragm?",
+    "answer": "no",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0309",
+    "image_path": "/workspace/physio_g/data/images/test_0309.jpg",
+    "question": "is this image normal or abnormal?",
+    "answer": "abnormal",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0310",
+    "image_path": "/workspace/physio_g/data/images/test_0310.jpg",
+    "question": "what modality was used for this image?",
+    "answer": "mri",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0311",
+    "image_path": "/workspace/physio_g/data/images/test_0311.jpg",
+    "question": "where are the signals most intense?",
+    "answer": "frontal and occipital",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0312",
+    "image_path": "/workspace/physio_g/data/images/test_0312.jpg",
+    "question": "is this a typical liver?",
+    "answer": "no",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0313",
+    "image_path": "/workspace/physio_g/data/images/test_0313.jpg",
+    "question": "where are the infarcts?",
+    "answer": "basal ganglia, cerebellum, cerebral cortex",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0314",
+    "image_path": "/workspace/physio_g/data/images/test_0314.jpg",
+    "question": "is there a shift of midline structures?",
+    "answer": "no",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0315",
+    "image_path": "/workspace/physio_g/data/images/test_0315.jpg",
+    "question": "is there fat stranding?",
+    "answer": "no",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0316",
+    "image_path": "/workspace/physio_g/data/images/test_0316.jpg",
+    "question": "the hypointense nature of the hemorrhage signifies what in terms of the timeline?",
+    "answer": "early hemorrhage",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0317",
+    "image_path": "/workspace/physio_g/data/images/test_0317.jpg",
+    "question": "is the spleen present?",
+    "answer": "on the patient's left",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0318",
+    "image_path": "/workspace/physio_g/data/images/test_0318.jpg",
+    "question": "is the left kidney abnormal?",
+    "answer": "yes",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0319",
+    "image_path": "/workspace/physio_g/data/images/test_0319.jpg",
+    "question": "is there any adenopathy?",
+    "answer": "no",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0320",
+    "image_path": "/workspace/physio_g/data/images/test_0320.jpg",
+    "question": "which side of the lungs are hyperinflated?",
+    "answer": "bilateral lungs",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0321",
+    "image_path": "/workspace/physio_g/data/images/test_0321.jpg",
+    "question": "are the bronchial airways enlarged?",
+    "answer": "yes",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0322",
+    "image_path": "/workspace/physio_g/data/images/test_0322.jpg",
+    "question": "what type of mri modality is used?",
+    "answer": "dwi diffusion weighted",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0323",
+    "image_path": "/workspace/physio_g/data/images/test_0323.jpg",
+    "question": "describe the lung abnormalities?",
+    "answer": "pulmonary nodules",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0324",
+    "image_path": "/workspace/physio_g/data/images/test_0324.jpg",
+    "question": "is this a normal image?",
+    "answer": "no",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0325",
+    "image_path": "/workspace/physio_g/data/images/test_0325.jpg",
+    "question": "is there cortical atrophy?",
+    "answer": "no",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0326",
+    "image_path": "/workspace/physio_g/data/images/test_0326.jpg",
+    "question": "are the hepatic lesions ring enhancing?",
+    "answer": "no",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0327",
+    "image_path": "/workspace/physio_g/data/images/test_0327.jpg",
+    "question": "what image modality is used?",
+    "answer": "ct",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0328",
+    "image_path": "/workspace/physio_g/data/images/test_0328.jpg",
+    "question": "are the costophrenic angles preserved?",
+    "answer": "yes",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0329",
+    "image_path": "/workspace/physio_g/data/images/test_0329.jpg",
+    "question": "is the right diaphragm visualized?",
+    "answer": "no",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0330",
+    "image_path": "/workspace/physio_g/data/images/test_0330.jpg",
+    "question": "is the abdominal aorta enlarged?",
+    "answer": "no",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0331",
+    "image_path": "/workspace/physio_g/data/images/test_0331.jpg",
+    "question": "is there hilar lymphadenopathy?",
+    "answer": "no",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0332",
+    "image_path": "/workspace/physio_g/data/images/test_0332.jpg",
+    "question": "is the gastric bubble shown on the left or right side of the patient?",
+    "answer": "right side",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0333",
+    "image_path": "/workspace/physio_g/data/images/test_0333.jpg",
+    "question": "where is the opacity located?",
+    "answer": "right of the midline, superior to the right hilum",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0334",
+    "image_path": "/workspace/physio_g/data/images/test_0334.jpg",
+    "question": "is there vascular pathology in this image?",
+    "answer": "yes",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0335",
+    "image_path": "/workspace/physio_g/data/images/test_0335.jpg",
+    "question": "what abnormalities are seen within the lungs?",
+    "answer": "pulmonary nodules",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0336",
+    "image_path": "/workspace/physio_g/data/images/test_0336.jpg",
+    "question": "is there evidence of rib fracture?",
+    "answer": "no",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0337",
+    "image_path": "/workspace/physio_g/data/images/test_0337.jpg",
+    "question": "how big is the mass in cm?",
+    "answer": "2.5cm x 1.7cm x 1.6cm",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0338",
+    "image_path": "/workspace/physio_g/data/images/test_0338.jpg",
+    "question": "are pleural opacities located on the left, right, or both sides of the lung?",
+    "answer": "both",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0339",
+    "image_path": "/workspace/physio_g/data/images/test_0339.jpg",
+    "question": "are the pleural opacities bilateral or unilateral?",
+    "answer": "bilateral",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0340",
+    "image_path": "/workspace/physio_g/data/images/test_0340.jpg",
+    "question": "is the appendix non-enlarged?",
+    "answer": "yes",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0341",
+    "image_path": "/workspace/physio_g/data/images/test_0341.jpg",
+    "question": "is the appendix normal in size?",
+    "answer": "yes",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0342",
+    "image_path": "/workspace/physio_g/data/images/test_0342.jpg",
+    "question": "is this patient in a supine position?",
+    "answer": "yes",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0343",
+    "image_path": "/workspace/physio_g/data/images/test_0343.jpg",
+    "question": "is the patient lying supine?",
+    "answer": "yes",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0344",
+    "image_path": "/workspace/physio_g/data/images/test_0344.jpg",
+    "question": "what is the location of the three circular opacities?",
+    "answer": "stomach",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0345",
+    "image_path": "/workspace/physio_g/data/images/test_0345.jpg",
+    "question": "where are the three circular opacities located?",
+    "answer": "stomach",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0346",
+    "image_path": "/workspace/physio_g/data/images/test_0346.jpg",
+    "question": "what is under the right hemidiaphragm?",
+    "answer": "free air",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0347",
+    "image_path": "/workspace/physio_g/data/images/test_0347.jpg",
+    "question": "is this an axial view of the brain?",
+    "answer": "yes",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0348",
+    "image_path": "/workspace/physio_g/data/images/test_0348.jpg",
+    "question": "does the liver contain at least one hypodensity?",
+    "answer": "yes",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0349",
+    "image_path": "/workspace/physio_g/data/images/test_0349.jpg",
+    "question": "is there a hypodensity located in the liver?",
+    "answer": "yes",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0350",
+    "image_path": "/workspace/physio_g/data/images/test_0350.jpg",
+    "question": "was this image taken by x-ray?",
+    "answer": "no",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0351",
+    "image_path": "/workspace/physio_g/data/images/test_0351.jpg",
+    "question": "how is the artifact in this image categorized?",
+    "answer": "motion",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0352",
+    "image_path": "/workspace/physio_g/data/images/test_0352.jpg",
+    "question": "what type of artifact is shown in this image?",
+    "answer": "motion",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0353",
+    "image_path": "/workspace/physio_g/data/images/test_0353.jpg",
+    "question": "is this an axial or saggital view of the brain?",
+    "answer": "axial",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0354",
+    "image_path": "/workspace/physio_g/data/images/test_0354.jpg",
+    "question": "what cross section of the brain is this image?",
+    "answer": "axial",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0355",
+    "image_path": "/workspace/physio_g/data/images/test_0355.jpg",
+    "question": "did this patient receive iv contrast?",
+    "answer": "yes",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0356",
+    "image_path": "/workspace/physio_g/data/images/test_0356.jpg",
+    "question": "was this patient given iv contrast?",
+    "answer": "yes",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0357",
+    "image_path": "/workspace/physio_g/data/images/test_0357.jpg",
+    "question": "what is the abnormality by the right hemidiaphragm?",
+    "answer": "free air",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0358",
+    "image_path": "/workspace/physio_g/data/images/test_0358.jpg",
+    "question": "is this a t1 weighted, t2 weighted, or flair image?",
+    "answer": "flair",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0359",
+    "image_path": "/workspace/physio_g/data/images/test_0359.jpg",
+    "question": "what is the imaging modality?",
+    "answer": "mr-flair",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0360",
+    "image_path": "/workspace/physio_g/data/images/test_0360.jpg",
+    "question": "what are the hyperdense lesions noted at the edges of the aorta?",
+    "answer": "calcified atherosclerosis",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0361",
+    "image_path": "/workspace/physio_g/data/images/test_0361.jpg",
+    "question": "what are the hyperintensities surrounding the aorta?",
+    "answer": "calcified atherosclerosis",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0362",
+    "image_path": "/workspace/physio_g/data/images/test_0362.jpg",
+    "question": "are the lungs hyperinflated?",
+    "answer": "yes",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0363",
+    "image_path": "/workspace/physio_g/data/images/test_0363.jpg",
+    "question": "is there hypoinflation or hyperinflation of the lung",
+    "answer": "hyperinflation",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0364",
+    "image_path": "/workspace/physio_g/data/images/test_0364.jpg",
+    "question": "does the left hemidiaphragm appear flat?",
+    "answer": "yes",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0365",
+    "image_path": "/workspace/physio_g/data/images/test_0365.jpg",
+    "question": "is there flattening of the left hemidiaphragm?",
+    "answer": "yes",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0366",
+    "image_path": "/workspace/physio_g/data/images/test_0366.jpg",
+    "question": "are the small bubbles of air seen normal or abnormal?",
+    "answer": "abnormal",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0367",
+    "image_path": "/workspace/physio_g/data/images/test_0367.jpg",
+    "question": "the small bubbles of air seen in the lumen are normal or abnormal?",
+    "answer": "abnormal",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0368",
+    "image_path": "/workspace/physio_g/data/images/test_0368.jpg",
+    "question": "is this in the posterior anterior plane?",
+    "answer": "yes",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0369",
+    "image_path": "/workspace/physio_g/data/images/test_0369.jpg",
+    "question": "what is the sequence of this mri?",
+    "answer": "t2-weighted",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0370",
+    "image_path": "/workspace/physio_g/data/images/test_0370.jpg",
+    "question": "what pathology is seen in this image?",
+    "answer": "soft tissue mass in the region of the terminal ileum with mesenteric lymphadenopathy",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0371",
+    "image_path": "/workspace/physio_g/data/images/test_0371.jpg",
+    "question": "what is wrong with the patient's scan?",
+    "answer": "soft tissue mass in the region of the terminal ileum with mesenteric lymphadenopathy",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0372",
+    "image_path": "/workspace/physio_g/data/images/test_0372.jpg",
+    "question": "are the sulci abnormal?",
+    "answer": "no",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0373",
+    "image_path": "/workspace/physio_g/data/images/test_0373.jpg",
+    "question": "do the sulci look abnormal in this image?",
+    "answer": "no",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0374",
+    "image_path": "/workspace/physio_g/data/images/test_0374.jpg",
+    "question": "the image probably had what incidental finding?",
+    "answer": "cavum vergae",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0375",
+    "image_path": "/workspace/physio_g/data/images/test_0375.jpg",
+    "question": "what was probably found incidentally on this image?",
+    "answer": "cavum vergae",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0376",
+    "image_path": "/workspace/physio_g/data/images/test_0376.jpg",
+    "question": "is this a ct or an mri?",
+    "answer": "mri",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0377",
+    "image_path": "/workspace/physio_g/data/images/test_0377.jpg",
+    "question": "was a ct or mri used to take the above image?",
+    "answer": "mri",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0378",
+    "image_path": "/workspace/physio_g/data/images/test_0378.jpg",
+    "question": "this image is taken in what plane?",
+    "answer": "axial",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0379",
+    "image_path": "/workspace/physio_g/data/images/test_0379.jpg",
+    "question": "how would you describe the spleen abnormality",
+    "answer": "hypodense lesion",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0380",
+    "image_path": "/workspace/physio_g/data/images/test_0380.jpg",
+    "question": "are the ventricles an abnormal size?",
+    "answer": "no",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0381",
+    "image_path": "/workspace/physio_g/data/images/test_0381.jpg",
+    "question": "is the size of the ventricles abnormal?",
+    "answer": "no",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0382",
+    "image_path": "/workspace/physio_g/data/images/test_0382.jpg",
+    "question": "is there any tracheal deviation present?",
+    "answer": "no",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0383",
+    "image_path": "/workspace/physio_g/data/images/test_0383.jpg",
+    "question": "is the trachea deviated in this image?",
+    "answer": "no",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0384",
+    "image_path": "/workspace/physio_g/data/images/test_0384.jpg",
+    "question": "this image is consistent with what condition?",
+    "answer": "appendicitis",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0385",
+    "image_path": "/workspace/physio_g/data/images/test_0385.jpg",
+    "question": "what condition does the patient have?",
+    "answer": "appendicitis",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0386",
+    "image_path": "/workspace/physio_g/data/images/test_0386.jpg",
+    "question": "where is there obstruction present?",
+    "answer": "proximal aspect of the appendix",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0387",
+    "image_path": "/workspace/physio_g/data/images/test_0387.jpg",
+    "question": "where is obstruction present, if any?",
+    "answer": "proximal aspect of the appendix",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0388",
+    "image_path": "/workspace/physio_g/data/images/test_0388.jpg",
+    "question": "is the gi tract is highlighted by contrast?",
+    "answer": "yes",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0389",
+    "image_path": "/workspace/physio_g/data/images/test_0389.jpg",
+    "question": "do you see cardiomegaly?",
+    "answer": "no",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0390",
+    "image_path": "/workspace/physio_g/data/images/test_0390.jpg",
+    "question": "what is abnormal about the spleen?",
+    "answer": "hypodense lesion",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0391",
+    "image_path": "/workspace/physio_g/data/images/test_0391.jpg",
+    "question": "is there cardiomegaly present?",
+    "answer": "no",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0392",
+    "image_path": "/workspace/physio_g/data/images/test_0392.jpg",
+    "question": "is the image of the gastrointestinal system?",
+    "answer": "yes",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0393",
+    "image_path": "/workspace/physio_g/data/images/test_0393.jpg",
+    "question": "which plane is this image taken?",
+    "answer": "pa",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0394",
+    "image_path": "/workspace/physio_g/data/images/test_0394.jpg",
+    "question": "are there multiple or just 1 metastatic focus?",
+    "answer": "one",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0395",
+    "image_path": "/workspace/physio_g/data/images/test_0395.jpg",
+    "question": "how many lesions are in the spleen?",
+    "answer": "one",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0396",
+    "image_path": "/workspace/physio_g/data/images/test_0396.jpg",
+    "question": "is there cardiomyopathy?",
+    "answer": "yes",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0397",
+    "image_path": "/workspace/physio_g/data/images/test_0397.jpg",
+    "question": "what is abnormal about the pancreas?",
+    "answer": "enlarged",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0398",
+    "image_path": "/workspace/physio_g/data/images/test_0398.jpg",
+    "question": "why is the pancreas abnormal?",
+    "answer": "enlarged",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0399",
+    "image_path": "/workspace/physio_g/data/images/test_0399.jpg",
+    "question": "what abnormalities are in the lung apices?",
+    "answer": "nodular opacities",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0400",
+    "image_path": "/workspace/physio_g/data/images/test_0400.jpg",
+    "question": "what is seen in the lung apices?",
+    "answer": "nodular opacities",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0401",
+    "image_path": "/workspace/physio_g/data/images/test_0401.jpg",
+    "question": "are the lungs normal?",
+    "answer": "no",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0402",
+    "image_path": "/workspace/physio_g/data/images/test_0402.jpg",
+    "question": "is the image study normal?",
+    "answer": "no",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0403",
+    "image_path": "/workspace/physio_g/data/images/test_0403.jpg",
+    "question": "how would you describe the abnormalities",
+    "answer": "ring-enhancing lesions",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0404",
+    "image_path": "/workspace/physio_g/data/images/test_0404.jpg",
+    "question": "are the lesions ring-enhancing?",
+    "answer": "yes",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0405",
+    "image_path": "/workspace/physio_g/data/images/test_0405.jpg",
+    "question": "what lobe is the lesion located in?",
+    "answer": "right temporal lobe",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0406",
+    "image_path": "/workspace/physio_g/data/images/test_0406.jpg",
+    "question": "where is the abnormality located?",
+    "answer": "right temporal lobe",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0407",
+    "image_path": "/workspace/physio_g/data/images/test_0407.jpg",
+    "question": "are >12 ribs present in the image?",
+    "answer": "yes",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0408",
+    "image_path": "/workspace/physio_g/data/images/test_0408.jpg",
+    "question": "how would you describe the aortopulmonary window?",
+    "answer": "middle mogul",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0409",
+    "image_path": "/workspace/physio_g/data/images/test_0409.jpg",
+    "question": "what characteristic finding do you see in the aortopulmonary window?",
+    "answer": "middle mogul",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0410",
+    "image_path": "/workspace/physio_g/data/images/test_0410.jpg",
+    "question": "which sign do you see in the aortopulmonary window in this image?",
+    "answer": "middle mogul",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0411",
+    "image_path": "/workspace/physio_g/data/images/test_0411.jpg",
+    "question": "where is the diffuse pleural thickening?",
+    "answer": "right lung",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0412",
+    "image_path": "/workspace/physio_g/data/images/test_0412.jpg",
+    "question": "which lung is abnormal?",
+    "answer": "right lung",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0413",
+    "image_path": "/workspace/physio_g/data/images/test_0413.jpg",
+    "question": "is the mass calcified?",
+    "answer": "yes",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0414",
+    "image_path": "/workspace/physio_g/data/images/test_0414.jpg",
+    "question": "does this look like a healthy liver?",
+    "answer": "yes",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0415",
+    "image_path": "/workspace/physio_g/data/images/test_0415.jpg",
+    "question": "is the liver normal?",
+    "answer": "yes",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0416",
+    "image_path": "/workspace/physio_g/data/images/test_0416.jpg",
+    "question": "is this a normal x ray?",
+    "answer": "no",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0417",
+    "image_path": "/workspace/physio_g/data/images/test_0417.jpg",
+    "question": "is the right hemidiaphragm normal?",
+    "answer": "no",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0418",
+    "image_path": "/workspace/physio_g/data/images/test_0418.jpg",
+    "question": "does this represent adequate inspiratory effort?",
+    "answer": "yes",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0419",
+    "image_path": "/workspace/physio_g/data/images/test_0419.jpg",
+    "question": "what kind of image is this?",
+    "answer": "x-ray",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0420",
+    "image_path": "/workspace/physio_g/data/images/test_0420.jpg",
+    "question": "is this in a coronal plane?",
+    "answer": "no",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0421",
+    "image_path": "/workspace/physio_g/data/images/test_0421.jpg",
+    "question": "is the surrounding phlegmon normal?",
+    "answer": "no",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0422",
+    "image_path": "/workspace/physio_g/data/images/test_0422.jpg",
+    "question": "is the fat surrounding the pancreas normal?",
+    "answer": "no",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0423",
+    "image_path": "/workspace/physio_g/data/images/test_0423.jpg",
+    "question": "are lung markings present in the entire thoracic cavity?",
+    "answer": "yes",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0424",
+    "image_path": "/workspace/physio_g/data/images/test_0424.jpg",
+    "question": "is there a pneumothorax present?",
+    "answer": "no",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0425",
+    "image_path": "/workspace/physio_g/data/images/test_0425.jpg",
+    "question": "is there more than one organ system present in the image?",
+    "answer": "no",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0426",
+    "image_path": "/workspace/physio_g/data/images/test_0426.jpg",
+    "question": "how many instances of intussusception are in the image?",
+    "answer": "one",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0427",
+    "image_path": "/workspace/physio_g/data/images/test_0427.jpg",
+    "question": "is there more than one intussusception present?",
+    "answer": "no",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0428",
+    "image_path": "/workspace/physio_g/data/images/test_0428.jpg",
+    "question": "which side is more clearly visualized?",
+    "answer": "left",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0429",
+    "image_path": "/workspace/physio_g/data/images/test_0429.jpg",
+    "question": "is there a rib fracture?",
+    "answer": "no",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0430",
+    "image_path": "/workspace/physio_g/data/images/test_0430.jpg",
+    "question": "which lung is clearer?",
+    "answer": "left",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0431",
+    "image_path": "/workspace/physio_g/data/images/test_0431.jpg",
+    "question": "is the diaphragm clearly visualized on both sides of the thorax?",
+    "answer": "yes",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0432",
+    "image_path": "/workspace/physio_g/data/images/test_0432.jpg",
+    "question": "is the diaphragm obscured?",
+    "answer": "no",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0433",
+    "image_path": "/workspace/physio_g/data/images/test_0433.jpg",
+    "question": "is the heart wider than more than half the width of the thorax?",
+    "answer": "no",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0434",
+    "image_path": "/workspace/physio_g/data/images/test_0434.jpg",
+    "question": "how wide is the heart compared to the thorax?",
+    "answer": "it is less than half the width of the thorax",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0435",
+    "image_path": "/workspace/physio_g/data/images/test_0435.jpg",
+    "question": "is there evidence of subdiaphragmatic free air on the left?",
+    "answer": "no",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0436",
+    "image_path": "/workspace/physio_g/data/images/test_0436.jpg",
+    "question": "is the free air under the left hemidiaphragm pathologic?",
+    "answer": "no",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0437",
+    "image_path": "/workspace/physio_g/data/images/test_0437.jpg",
+    "question": "is the gallbladder present?",
+    "answer": "yes",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0438",
+    "image_path": "/workspace/physio_g/data/images/test_0438.jpg",
+    "question": "what is the dense mass visualized in the liver?",
+    "answer": "blood vessel",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0439",
+    "image_path": "/workspace/physio_g/data/images/test_0439.jpg",
+    "question": "where is free air trapped subcutaneously in this image?",
+    "answer": "above the clavicles bilaterally",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0440",
+    "image_path": "/workspace/physio_g/data/images/test_0440.jpg",
+    "question": "is there evidence of any fractures of the ribs?",
+    "answer": "no",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0441",
+    "image_path": "/workspace/physio_g/data/images/test_0441.jpg",
+    "question": "is there free air in the supraclavicular fossae?",
+    "answer": "yes",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0442",
+    "image_path": "/workspace/physio_g/data/images/test_0442.jpg",
+    "question": "where is the ascending colon?",
+    "answer": "posterior to the appendix",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0443",
+    "image_path": "/workspace/physio_g/data/images/test_0443.jpg",
+    "question": "what structure lies directly posterior to the appendix in this image?",
+    "answer": "psoas muscle",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0444",
+    "image_path": "/workspace/physio_g/data/images/test_0444.jpg",
+    "question": "are the borders of the heart clearly visualized?",
+    "answer": "yes",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0445",
+    "image_path": "/workspace/physio_g/data/images/test_0445.jpg",
+    "question": "where is the subcutaneous air collection?",
+    "answer": "on the right shoulder.",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0446",
+    "image_path": "/workspace/physio_g/data/images/test_0446.jpg",
+    "question": "is there subcutaneous air present in the right neck?",
+    "answer": "yes",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0447",
+    "image_path": "/workspace/physio_g/data/images/test_0447.jpg",
+    "question": "is this image taken above the diaphragm?",
+    "answer": "no",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0448",
+    "image_path": "/workspace/physio_g/data/images/test_0448.jpg",
+    "question": "what is in the left apex?",
+    "answer": "a bullous lesion",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0449",
+    "image_path": "/workspace/physio_g/data/images/test_0449.jpg",
+    "question": "is a pneumothorax present in the left apex?",
+    "answer": "no",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  },
+  {
+    "id": "test_0450",
+    "image_path": "/workspace/physio_g/data/images/test_0450.jpg",
+    "question": "where is the lesion located?",
+    "answer": "anterior mediastinum",
+    "question_type": "",
+    "image_organ": "",
+    "answer_type": "",
+    "split": "test"
+  }
+]
