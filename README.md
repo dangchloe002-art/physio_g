@@ -4,12 +4,27 @@ Fine-tuning Qwen2-VL-7B-Instruct on VQA-RAD with LoRA and Chain-of-Thought reaso
 
 ## Results
 
+### Exact Match (original metric)
+
 | Method | Exact Match | Yes/No | Open |
 |--------|------------|--------|------|
 | Zero-shot baseline | 1.8% | 3.2% | 0.0% |
-| LoRA SFT (r=32) | **49.0%** | **73.7%** | **18.0%** |
+| LoRA SFT (r=32) | 49.0% | 73.7% | 18.0% |
 | CoT-LoRA (r=64) | 44.8% | 71.7% | 11.0% |
 | CoT-LoRA (r=16) | 42.4% | 69.3% | 8.5% |
+
+### Contains Match (improved metric)
+
+| Method | Contains Match | Yes/No | Open |
+|--------|---------------|--------|------|
+| Zero-shot baseline | 54.5% | 76.5% | 27.0% |
+| LoRA SFT (r=32) | 57.4% | 74.9% | 35.5% |
+| CoT-LoRA (r=64) | 54.5% | 73.3% | 31.0% |
+| CoT-LoRA (r=16) | 53.0% | 72.9% | 28.0% |
+
+> **Key Finding:** Zero-shot exact match (1.8%) severely underestimates true capability.
+> Contains match reveals zero-shot already achieves 76.5% on Yes/No questions.
+> LoRA fine-tuning primarily improves output format consistency rather than medical understanding.
 
 ![Results Summary](notebooks/results_summary.png)
 
