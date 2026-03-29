@@ -5,7 +5,7 @@ Fine-tuning **Qwen2-VL-7B-Instruct** on radiology image question answering using
 
 ## Demo
 
-[![physio_g Demo](https://cdn.loom.com/sessions/thumbnails/e4a159f73af24836942f85916a491280-with-play.gif)](https://www.loom.com/share/e4a159f73af24836942f85916a491280)
+**[▶ Watch Demo on Loom](https://www.loom.com/share/e4a159f73af24836942f85916a491280)**
 
 > Upload a radiology image and ask a clinical question. The model returns a concise answer based on two-stage LoRA fine-tuning (CoT reasoning + output alignment).
 
