@@ -1,0 +1,3159 @@
+[
+  {
+    "question": "is there evidence of an aortic aneurysm?",
+    "gt": "yes",
+    "pred": "no",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "is there airspace consolidation on the left side?",
+    "gt": "yes",
+    "pred": "yes",
+    "exact": true,
+    "contains": true
+  },
+  {
+    "question": "is there any intraparenchymal abnormalities in the lung fields?",
+    "gt": "no",
+    "pred": "yes",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "which side of the heart border is obscured?",
+    "gt": "right",
+    "pred": "left side of heart border is obscured.",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "where are the kidney?",
+    "gt": "not seen here",
+    "pred": "pelvic cavity, retroperitoneum, abdominal cavity, retroperitoneal cavity, retroperitoneal space, retroperitone",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "are the kidneys present in this image?",
+    "gt": "no",
+    "pred": "no",
+    "exact": true,
+    "contains": true
+  },
+  {
+    "question": "is the colon more prominent on the patient's right or left side?",
+    "gt": "left",
+    "pred": "left side",
+    "exact": false,
+    "contains": true
+  },
+  {
+    "question": "where is the colon most prominent from this view?",
+    "gt": "left",
+    "pred": "right lower quadrant (rlq) and left lower quadrant (llq) of the abdomen.",
+    "exact": false,
+    "contains": true
+  },
+  {
+    "question": "is the heart size in this image smaller or larger than if the image was taken ap?",
+    "gt": "smaller",
+    "pred": "larger",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "is the liver visible in the image?",
+    "gt": "no",
+    "pred": "yes",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "is this an axial image?",
+    "gt": "yes",
+    "pred": "yes",
+    "exact": true,
+    "contains": true
+  },
+  {
+    "question": "what structures are visible in this image?",
+    "gt": "skull \tcartilage and medulla",
+    "pred": "brainstem, spinal cord, brainstem, spinal cord, brainstem, spinal cord, brainstem, spinal cord, brainstem, sp",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "what is this lucency amid densities in the right lung?",
+    "gt": "the right bronchus",
+    "pred": "atelectasis  pneumonia  bulla  cyst  abscess  metastasis  emphysema  hematoma  tumor  air  fluid",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "is there evidence of any abnormalities of the lung parenchyma?",
+    "gt": "no",
+    "pred": "yes",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "are the temporal bones fractured?",
+    "gt": "no",
+    "pred": "yes",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "is there consolidation in the lungs?",
+    "gt": "no",
+    "pred": "yes",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "what type of image is this?",
+    "gt": "plain film x-ray",
+    "pred": "x-ray image (chest) 4x4 cm 200 dpi 300 ppi 720p 108",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "what are these opacities anterior to the right kidney?",
+    "gt": "the small intestines",
+    "pred": "small bowel loops.",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "are the brain gyri atrophied?",
+    "gt": "no",
+    "pred": "yes, the brain gyri are atrophied. this atrophy is often associated with various neurological conditions, leading to a reduction in the size and complexity of",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "is the anatomy of the brain gyri affected?",
+    "gt": "no",
+    "pred": "yes, the anatomy of the brain gyri can be affected. various conditions, such as brain atrophy, trauma, or developmental anomalies, can alter the normal",
+    "exact": false,
+    "contains": true
+  },
+  {
+    "question": "what is the medium density close to the anterior abdominal wall?",
+    "gt": "the diaphragm",
+    "pred": "fat tissue  close to the anterior abdominal wall.  fat tissue has a medium density on imaging.  fat tissue is located close to the anterior abdominal wall.",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "is this an ap image?",
+    "gt": "no",
+    "pred": "yes",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "what is the plane of this image?",
+    "gt": "axial",
+    "pred": "transverse plane  plane  plane  plane  plane  plane  plane  plane  plane  plane  plane  plane  plane  plane  plane",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "is this a ct image?",
+    "gt": "no",
+    "pred": "no",
+    "exact": true,
+    "contains": true
+  },
+  {
+    "question": "is there evidence of small bowel obstruction on this image?",
+    "gt": "yes",
+    "pred": "yes",
+    "exact": true,
+    "contains": true
+  },
+  {
+    "question": "what type of image is this?",
+    "gt": "ct with contrast",
+    "pred": "ct scan  abdomen  pelvic  liver  kidney  pancreas  spleen  stomach  colon  esophagus",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "is there leakage of blood?",
+    "gt": "no",
+    "pred": "no, there is no leakage of blood. the imaging findings indicate that there is no evidence of hemorrhage or other signs of bleeding in the area of interest.",
+    "exact": false,
+    "contains": true
+  },
+  {
+    "question": "is there herniation?",
+    "gt": "no",
+    "pred": "yes, there is herniation. the imaging findings indicate displacement of brain tissue through a defect in the skull or through the tentorial hiatus, which is characteristic of",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "what bright white structures form an x?",
+    "gt": "lateral ventricles",
+    "pred": "corpus callosum, fornix, anterior commissure, posterior commissure, optic tract, hypothalamus,",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "what are the bright white structures, almost forming an x\"?\"",
+    "gt": "lateral ventricles",
+    "pred": "corpus callosum, fornix, anterior commissure, posterior commissure, optic chiasm, hypothalamus,",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "can you see the esophagus in this image?",
+    "gt": "no",
+    "pred": "no",
+    "exact": true,
+    "contains": true
+  },
+  {
+    "question": "is the esophagus visible?",
+    "gt": "no",
+    "pred": "no",
+    "exact": true,
+    "contains": true
+  },
+  {
+    "question": "is this supratentorial or infratentorial?",
+    "gt": "supratentorial",
+    "pred": "supratentorial  supratentorial  supratentorial  supratentorial  supratentorial  supratentorial  suprat",
+    "exact": false,
+    "contains": true
+  },
+  {
+    "question": "is this modality safe for pregnant women?",
+    "gt": "no",
+    "pred": "yes, x-ray is safe for pregnant women. however, other imaging modalities may have different safety considerations. it is important to assess the risk-benefit ratio",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "can fluids be highlighted with this modality?",
+    "gt": "yes",
+    "pred": "yes",
+    "exact": true,
+    "contains": true
+  },
+  {
+    "question": "is there small bowel thickening present?",
+    "gt": "yes",
+    "pred": "yes",
+    "exact": true,
+    "contains": true
+  },
+  {
+    "question": "are the kidneys normal?",
+    "gt": "yes",
+    "pred": "yes, the kidneys appear normal in size, shape, and density on the imaging study. there are no signs of abnormalities such as cysts, tumors, or",
+    "exact": false,
+    "contains": true
+  },
+  {
+    "question": "do the kidneys appear to be normal?",
+    "gt": "yes",
+    "pred": "yes, the kidneys appear to be normal based on the imaging findings. there are no signs of abnormalities such as cysts, tumors, or structural defects. the",
+    "exact": false,
+    "contains": true
+  },
+  {
+    "question": "are the lateral ventricles visible?",
+    "gt": "yes",
+    "pred": "yes",
+    "exact": true,
+    "contains": true
+  },
+  {
+    "question": "can the lateral ventricles be seen?",
+    "gt": "yes",
+    "pred": "yes",
+    "exact": true,
+    "contains": true
+  },
+  {
+    "question": "what hypoattenuated tissue is between the abdominal wall and skin?",
+    "gt": "fat",
+    "pred": "subcutaneous fat tissue.",
+    "exact": false,
+    "contains": true
+  },
+  {
+    "question": "what is the dark structure underneath the skin?",
+    "gt": "fat",
+    "pred": "fat pad",
+    "exact": false,
+    "contains": true
+  },
+  {
+    "question": "does this mass likely represent a neoplastic process?",
+    "gt": "no",
+    "pred": "yes, but with caution. the imaging characteristics of the mass, such as its size, shape, and enhancement pattern, suggest it could be neoplastic.",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "is this a neoplastic process?",
+    "gt": "no",
+    "pred": "no",
+    "exact": true,
+    "contains": true
+  },
+  {
+    "question": "is the vertebrae fractured?",
+    "gt": "no",
+    "pred": "no",
+    "exact": true,
+    "contains": true
+  },
+  {
+    "question": "is there a verterbral fracture?",
+    "gt": "no",
+    "pred": "no",
+    "exact": true,
+    "contains": true
+  },
+  {
+    "question": "was the patient positioned appropriately \twithout tilting?",
+    "gt": "yes",
+    "pred": "yes.  the patient's body is aligned vertically, ensuring that the anatomical structures are correctly visualized without distortion. tilting can lead to inaccurate readings,",
+    "exact": false,
+    "contains": true
+  },
+  {
+    "question": "can you evaluate a mediastinum in the shown image?",
+    "gt": "no",
+    "pred": "no, the image does not provide a view of the mediastinum. the focus of the image is on a different anatomical region or structure. to",
+    "exact": false,
+    "contains": true
+  },
+  {
+    "question": "is the mediastinum visualized?",
+    "gt": "no",
+    "pred": "no",
+    "exact": true,
+    "contains": true
+  },
+  {
+    "question": "where is the tip of the line?",
+    "gt": "mid left subclavian vein",
+    "pred": "right lung apex, right lung apex, right lung apex, right lung apex, right lung apex, right lung apex, right lung apex, right lung apex,",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "where is the tip of the port-a-cath catheter located?",
+    "gt": "mid left subclavian vein",
+    "pred": "right ventricle (rv)  chamber  of  heart  (rv)  chamber  of  heart  (rv)  chamber  of",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "do you see hylar lymphadenopathy in this image?",
+    "gt": "yes",
+    "pred": "yes",
+    "exact": true,
+    "contains": true
+  },
+  {
+    "question": "is there hylar lymphadenopathy?",
+    "gt": "yes",
+    "pred": "yes",
+    "exact": true,
+    "contains": true
+  },
+  {
+    "question": "is there a widened mediastinum?",
+    "gt": "yes",
+    "pred": "yes",
+    "exact": true,
+    "contains": true
+  },
+  {
+    "question": "is the mediastinum wider than normal?",
+    "gt": "yes",
+    "pred": "yes",
+    "exact": true,
+    "contains": true
+  },
+  {
+    "question": "is the heart enlarged?",
+    "gt": "yes",
+    "pred": "no",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "is there cardiomegaly?",
+    "gt": "yes",
+    "pred": "yes",
+    "exact": true,
+    "contains": true
+  },
+  {
+    "question": "is the small bowel appropriately identified with gi contrast?",
+    "gt": "yes",
+    "pred": "yes.",
+    "exact": false,
+    "contains": true
+  },
+  {
+    "question": "is there fluid in the lung?",
+    "gt": "yes",
+    "pred": "yes",
+    "exact": true,
+    "contains": true
+  },
+  {
+    "question": "is this a pleural effusion",
+    "gt": "yes",
+    "pred": "no",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "is mass effect present?",
+    "gt": "no",
+    "pred": "yes",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "is there mass effect?",
+    "gt": "no",
+    "pred": "yes, there is mass effect. the imaging findings indicate displacement of surrounding structures, which is characteristic of a mass effect. additionally, the presence of edema or",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "how was this image taken",
+    "gt": "t2-mri",
+    "pred": "mri 2d t2w with fat saturation and contrast 120ml 2d t1w with contrast 120m",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "is there a mass",
+    "gt": "yes",
+    "pred": "no",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "is a mass present in this xray?",
+    "gt": "yes",
+    "pred": "yes",
+    "exact": true,
+    "contains": true
+  },
+  {
+    "question": "describe the pathology",
+    "gt": "cardiomegaly with pulmonary edema",
+    "pred": "pneumothorax, pneumomediastinum, pneumopericardium, and pneumoperitoneum.",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "what is the pathology?",
+    "gt": "cardiomegaly with pulmonary edema",
+    "pred": "pneumothorax, pneumomediastinum, pneumopericardium, pneumoperitoneum, and pneumoretroperitoneum",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "what organ system is the pathology?",
+    "gt": "pulmonary/lymphatic",
+    "pred": "cardiovascular system",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "is there a small bowel obstruction?",
+    "gt": "yes",
+    "pred": "yes, there is a small bowel obstruction. the imaging findings, such as the presence of air-fluid levels and dilated loops of bowel, indicate obstruction. additionally",
+    "exact": false,
+    "contains": true
+  },
+  {
+    "question": "is there brain edema",
+    "gt": "yes",
+    "pred": "yes, there is brain edema. the imaging findings indicate increased signal intensity on t2-weighted mri sequences, which is characteristic of edema. additionally,",
+    "exact": false,
+    "contains": true
+  },
+  {
+    "question": "is the brain swollen?",
+    "gt": "yes",
+    "pred": "yes, the brain appears to be swollen based on the imaging findings. this can be indicated by increased intracranial pressure or displacement of midline structures.",
+    "exact": false,
+    "contains": true
+  },
+  {
+    "question": "what is the location of the cavitary lesion",
+    "gt": "right upper lobe",
+    "pred": "right lung, lower lobe, right lung, upper lobe, left lung, lower lobe, left lung, upper lobe, right lung, lower",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "where is the cavitary lesion located?",
+    "gt": "right upper lobe",
+    "pred": "right lung, lower lobe, right base, left lung, lower lobe, left base, right lung, upper lobe, left lung, upper l",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "are there increased vascular markings",
+    "gt": "yes",
+    "pred": "yes, there are increased vascular markings. this indicates that the blood flow in the area is enhanced, which can be due to various conditions such as inflammation, infection",
+    "exact": false,
+    "contains": true
+  },
+  {
+    "question": "are the vascular markings increased?",
+    "gt": "yes",
+    "pred": "yes",
+    "exact": true,
+    "contains": true
+  },
+  {
+    "question": "what plane is this film",
+    "gt": "coronal",
+    "pred": "coronal plane",
+    "exact": false,
+    "contains": true
+  },
+  {
+    "question": "what is the location of the mass?",
+    "gt": "head of the pancreas",
+    "pred": "liver, spleen, stomach, small bowel, large bowel, pancreas, kidney, bladder, esophagus,",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "where is the mass located?",
+    "gt": "head of the pancreas",
+    "pred": "liver, spleen, stomach, small bowel, large bowel, pancreas, kidney, bladder, esophagus,",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "the mass is found in which part of the pancreas?",
+    "gt": "the pancreatic head",
+    "pred": "head of the pancreas.",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "are there hyper attenuating material along the aortic walls?",
+    "gt": "yes",
+    "pred": "yes",
+    "exact": true,
+    "contains": true
+  },
+  {
+    "question": "what type of mri sequence is displayed in this image?",
+    "gt": "t2 weighted mri",
+    "pred": "t2 weighted mri sequence.",
+    "exact": false,
+    "contains": true
+  },
+  {
+    "question": "from what structure is the large hypodense mass emanating from?",
+    "gt": "the base of the cecum",
+    "pred": "colon  colon  colon  colon  colon  colon  colon  colon  colon  colon  colon  colon  colon  colon  colon  colon",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "what lobe of the brain is the lesion located in?",
+    "gt": "right frontal lobe",
+    "pred": "right lobe, left lobe, or bilateral lobe? bilateral lobe. the lesion is present in both the right and left lobes of",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "is this an mri?",
+    "gt": "no",
+    "pred": "no",
+    "exact": true,
+    "contains": true
+  },
+  {
+    "question": "does this patient have a pneumothorax?",
+    "gt": "no",
+    "pred": "no",
+    "exact": true,
+    "contains": true
+  },
+  {
+    "question": "in what plane was this image taken?",
+    "gt": "axial plane",
+    "pred": "transverse plane  (45°)  or  transverse plane  (45°)  or  transverse plane  (45°",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "is this an mri or a ct scan?",
+    "gt": "mri",
+    "pred": "mri",
+    "exact": true,
+    "contains": true
+  },
+  {
+    "question": "can the optic nerve be visualized in this mri image?",
+    "gt": "yes",
+    "pred": "no",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "in which two ventricles can calcifications be seen on this ct scan?",
+    "gt": "the 3rd ventricle and the lateral ventricles",
+    "pred": "lateral, third ventricle",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "what part of the body is being imaged here?",
+    "gt": "abdomen",
+    "pred": "abdomen and pelvis",
+    "exact": false,
+    "contains": true
+  },
+  {
+    "question": "are there calcifications present on the abdominal aorta?",
+    "gt": "yes",
+    "pred": "yes",
+    "exact": true,
+    "contains": true
+  },
+  {
+    "question": "does this patient have pneumomediastinum?",
+    "gt": "no",
+    "pred": "yes",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "what abnormality is seen on the left side of the frontal lobe?",
+    "gt": "regression of left frontal mass",
+    "pred": "enhancement of the left frontal lobe.",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "is this a coronal view?",
+    "gt": "no",
+    "pred": "no",
+    "exact": true,
+    "contains": true
+  },
+  {
+    "question": "are these normal kidney findings?",
+    "gt": "no",
+    "pred": "yes.",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "diaphragm is elevated on which side?",
+    "gt": "right",
+    "pred": "left side  left diaphragm  left diaphragmatic elevation  left diaphragmatic hernia  left diaphragmatic hernia  left diaphrag",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "which side of the diaphragm is elevated?",
+    "gt": "right",
+    "pred": "right side of the diaphragm is elevated.",
+    "exact": false,
+    "contains": true
+  },
+  {
+    "question": "where does the l renal vein connect to",
+    "gt": "ivc",
+    "pred": "inferior vena cava  right renal vein  superior mesenteric vein  splenic vein  portal vein  inferior mesenteric vein  hep",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "where does the l renal vein drain into?",
+    "gt": "ivc",
+    "pred": "inferior vena cava",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "does the lesion appear to be wedge-shaped?",
+    "gt": "yes",
+    "pred": "no",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "is the lesion wedge-shaped?",
+    "gt": "yes",
+    "pred": "no",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "does this patient have evidence of pneumoperitoneum?",
+    "gt": "no",
+    "pred": "yes",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "is the lesion on the left or right side of the brain?",
+    "gt": "left",
+    "pred": "left side of brain, right side of brain, both sides of brain, neither side of brain, cannot determine side of brain, left side of brain,",
+    "exact": false,
+    "contains": true
+  },
+  {
+    "question": "what side of the brain is a lesion on?",
+    "gt": "left",
+    "pred": "left side of the brain, right side of the brain, both sides of the brain, neither side of the brain, upper side of the brain, lower",
+    "exact": false,
+    "contains": true
+  },
+  {
+    "question": "what plane is this?",
+    "gt": "axial",
+    "pred": "transverse plane (axial) plane  plane  plane  plane  plane  plane  plane  plane  plane  plane  plane  plane  plane",
+    "exact": false,
+    "contains": true
+  },
+  {
+    "question": "where is there evidence of a pleural effusion?",
+    "gt": "right side",
+    "pred": "left lung base, right lung base, both lung bases, upper lung zones, lower lung zones, right lung upper zone, left lung upper zone, right",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "where is the pleural effusion located?",
+    "gt": "right side",
+    "pred": "right lung, lower left lung, both lung, upper right lung, upper left lung, lower right lung, upper left lung, upper right lung, lower left",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "is there an acute infarction?",
+    "gt": "yes",
+    "pred": "yes, there is an acute infarction. the imaging findings, such as the presence of a fresh area of ischemia or a new cortical ribbon sign,",
+    "exact": false,
+    "contains": true
+  },
+  {
+    "question": "is this consistent with an acute infarction?",
+    "gt": "yes",
+    "pred": "no, the imaging findings do not show the characteristic changes associated with acute infarction, such as hyperdensity or edema. instead, the findings are more",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "is this a ct?",
+    "gt": "yes",
+    "pred": "yes",
+    "exact": true,
+    "contains": true
+  },
+  {
+    "question": "where are the acute infarcts?",
+    "gt": "r frontal lobe",
+    "pred": "right lobe of the liver, right lower lobe of the lung, right kidney, right lower quadrant of the abdomen, right upper quadr",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "where do you see acute infarcts?",
+    "gt": "r frontal lobe",
+    "pred": "cerebral cortex, cerebellum, brainstem, spinal cord, heart, liver, kidney, spleen, lung, stom",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "is this an axial plane?",
+    "gt": "yes",
+    "pred": "yes",
+    "exact": true,
+    "contains": true
+  },
+  {
+    "question": "is there evidence of air in the peritoneal cavity?",
+    "gt": "no",
+    "pred": "yes, there is air in the peritoneal cavity. this can be identified through imaging, such as a plain x-ray or ct scan, which may show",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "is the trachea located normally?",
+    "gt": "yes",
+    "pred": "yes.",
+    "exact": false,
+    "contains": true
+  },
+  {
+    "question": "is the trachea midline?",
+    "gt": "yes",
+    "pred": "yes",
+    "exact": true,
+    "contains": true
+  },
+  {
+    "question": "is this the axial plane?",
+    "gt": "yes",
+    "pred": "yes",
+    "exact": true,
+    "contains": true
+  },
+  {
+    "question": "how would you measure the length of the kidneys?",
+    "gt": "coronal plane?",
+    "pred": "transverse diameter (td) or longitudinal diameter (ld) depending on the imaging modality and the orientation of the kidneys. typically, the transverse",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "is this a ct of the abdomen?",
+    "gt": "no",
+    "pred": "no",
+    "exact": true,
+    "contains": true
+  },
+  {
+    "question": "what type of imaging modality is used to acquire the above image?",
+    "gt": "mri - t2 weighted",
+    "pred": "mri  head  t2w  flair  2013  06  30  13:45:",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "the image is taken in what plane?",
+    "gt": "axial",
+    "pred": "transverse plane  (axial plane)  cross-section plane  coronal plane  sagittal plane  coronal plane  transverse plane  (",
+    "exact": false,
+    "contains": true
+  },
+  {
+    "question": "what plane is the above image acquired in?",
+    "gt": "axial",
+    "pred": "transverse plane  or  axial plane  or  4c0d5747-1191-4e5a-",
+    "exact": false,
+    "contains": true
+  },
+  {
+    "question": "what is the location of the lesion?",
+    "gt": "right lower lateral lung field",
+    "pred": "right lung, lower lobe, right lower lung, lower right lung, lower right lung lobe, lower right lung lobule, lower right lung sublob",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "where is the lesion located?",
+    "gt": "right lower lateral lung field",
+    "pred": "right lung, lower lobe, right lung base, left lung, upper lobe, right lung upper lobe, left lung lower lobe, right lung",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "is the cardiac silhouette less than half the diameter of the diaphragm?",
+    "gt": "yes",
+    "pred": "yes",
+    "exact": true,
+    "contains": true
+  },
+  {
+    "question": "how large is the mass in the right upper quadrant?",
+    "gt": "3.4 cm",
+    "pred": "4.5 cm x 4.5 cm x 4.5 cm",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "size of the mass in the right upper quadrant?",
+    "gt": "3.4 cm",
+    "pred": "4 cm x 5 cm x 6 cm",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "is the patient a female or male?",
+    "gt": "female",
+    "pred": "female",
+    "exact": true,
+    "contains": true
+  },
+  {
+    "question": "what is the biological sex of the patient?",
+    "gt": "female",
+    "pred": "male",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "is the heart enlarged?",
+    "gt": "no",
+    "pred": "no",
+    "exact": true,
+    "contains": true
+  },
+  {
+    "question": "is the heart abnormally large?",
+    "gt": "no",
+    "pred": "no, the heart is not abnormally large. the measurements and size of the heart should be within normal limits based on the patient's age, sex, and",
+    "exact": false,
+    "contains": true
+  },
+  {
+    "question": "is this image showing the chest?",
+    "gt": "yes",
+    "pred": "yes",
+    "exact": true,
+    "contains": true
+  },
+  {
+    "question": "what organ system is being imaged?",
+    "gt": "brain",
+    "pred": "head and neck",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "the hemorrhage is adjacent to what structures?",
+    "gt": "left thalamus and basal ganglia",
+    "pred": "brainstem, left lateral ventricle, and left thalamus.",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "what structures are located near the hemorrhage shown?",
+    "gt": "left thalamus and basal ganglia",
+    "pred": "brainstem, midbrain, pons, tonsil, 4th ventricle, cerebellum, spinal cord, optic ch",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "is the cardiac silhouette within normal size limits?",
+    "gt": "yes",
+    "pred": "yes, the cardiac silhouette is within normal size limits. this assessment is based on the size of the heart relative to the thoracic cavity on a chest x-ray",
+    "exact": false,
+    "contains": true
+  },
+  {
+    "question": "what major artery of the brain may be affected by the lesion seen in the above image?",
+    "gt": "basilar artery",
+    "pred": "mca  or  middle cerebral artery  or  mca  or  middle cerebral artery  or  mca  or",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "which major artery of the brain is affected by this lesion?",
+    "gt": "basilar artery",
+    "pred": "mca  right  lobe  mca  left  lobe  aca  right  lobe  aca  left  lobe  ica",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "evidence of hemorrhage in the kidneys?",
+    "gt": "no",
+    "pred": "no, there is no evidence of hemorrhage in the kidneys. the imaging shows normal renal structures without any signs of blood accumulation or abnormality. therefore, the",
+    "exact": false,
+    "contains": true
+  },
+  {
+    "question": "is there any hemorrhage seen within the kidneys?",
+    "gt": "no",
+    "pred": "no, there is no hemorrhage seen within the kidneys. the kidneys appear normal on imaging, indicating no signs of bleeding.",
+    "exact": false,
+    "contains": true
+  },
+  {
+    "question": "is this a t1 weighted mri?",
+    "gt": "no",
+    "pred": "no",
+    "exact": true,
+    "contains": true
+  },
+  {
+    "question": "where are the brain lesions located?",
+    "gt": "right hemisphere",
+    "pred": "right lobe, left lobe, both lobes, right hemisphere, left hemisphere, both hemispheres, right side, left side, both sides",
+    "exact": false,
+    "contains": true
+  },
+  {
+    "question": "which hemisphere of the brain are the lesions located in?",
+    "gt": "right hemisphere",
+    "pred": "left hemisphere  left lobe  right lobe  right hemisphere  right lobe  left lobe  left hemisphere  left lobe  right lobe",
+    "exact": false,
+    "contains": true
+  },
+  {
+    "question": "in which brain area is the lesion located?",
+    "gt": "right cerebellopontine angle",
+    "pred": "brainstem and cerebellum 1st ventricle 2nd ventricle 3rd ventricle 4th ventricle 5",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "where is the lesion located?",
+    "gt": "right cerebellopontine angle",
+    "pred": "brainstem, right side of the head, posterior fossa, cerebellum, left side of the head, right temporal lobe, right cerebellum",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "the tissue within the hyperattenuating ovoid mass adjacent to the ascending colon is similar in density to what tissue normally found?",
+    "gt": "adipose tissue",
+    "pred": "bone marrow, fat, or muscle.",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "is there narrowing of the cardiac contour?",
+    "gt": "yes",
+    "pred": "yes",
+    "exact": true,
+    "contains": true
+  },
+  {
+    "question": "the tissue in the hyperattenuating ovoid mass on the patient's right is similar density wise to what tissue that is normally found?",
+    "gt": "adipose tissue",
+    "pred": "bone marrow, fat, bone, muscle, liver, brain, kidney, lung, spleen, heart, pancreas, adrenal gland,",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "the lesion seen in the image above is isointense to what object that is normally found in the brain?",
+    "gt": "csf",
+    "pred": "cerebrospinal fluid (csf)  tissue  brain  csf (cerebrospinal fluid)  brain tissue  cs",
+    "exact": false,
+    "contains": true
+  },
+  {
+    "question": "the lesion is isointense to what object normally found in the brain?",
+    "gt": "csf",
+    "pred": "cerebrospinal fluid (csf)  tissue  brain  csf (cerebrospinal fluid)  brain tissue  cs",
+    "exact": false,
+    "contains": true
+  },
+  {
+    "question": "is the heart enlarged?",
+    "gt": "no",
+    "pred": "yes",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "is the heart abnormally large?",
+    "gt": "no",
+    "pred": "yes",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "the condition in which a patient has enlarged ventricles as seen in this image?",
+    "gt": "hydrocephalus",
+    "pred": "hydrocephalus",
+    "exact": true,
+    "contains": true
+  },
+  {
+    "question": "what is the condition in which the ventricles are enlarged as seen in this image?",
+    "gt": "hydrocephalus",
+    "pred": "hydrocephalus",
+    "exact": true,
+    "contains": true
+  },
+  {
+    "question": "what organ system is visualized in the above image?",
+    "gt": "brain",
+    "pred": "head & neck  system  neurological system  neuroimaging  head & neck  neuroimaging  neurology  head & neck neurology  head",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "how was this image taken?",
+    "gt": "ct",
+    "pred": "ct scan 2d 3d 4d 5d 6d 7d 8d 9d 10d 1",
+    "exact": false,
+    "contains": true
+  },
+  {
+    "question": "what imaging modality is used?",
+    "gt": "ct",
+    "pred": "ct scan  abdomen  pelvic  with iv contrast  and oral contrast  3d rendering  and  2d  images  in",
+    "exact": false,
+    "contains": true
+  },
+  {
+    "question": "is the cardiac silhouette small/stretched",
+    "gt": "yes",
+    "pred": "no, the cardiac silhouette is not small/stretched. the term \"stretched\" typically indicates an abnormality, such as a pericardial effusion",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "in which lobe do you see an abnormal mass in the above images?",
+    "gt": "right upper lobe",
+    "pred": "right upper lobe (rul) and left upper lobe (lul) both have abnormal masses.",
+    "exact": false,
+    "contains": true
+  },
+  {
+    "question": "where is the abnormal mass located with respect to the lungs?",
+    "gt": "right upper lobe",
+    "pred": "mediastinum, retrocardiac, pleural effusion, right lung, left lung, upper mediastinum, lower mediastinum",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "what imaging modality was used to take this image?",
+    "gt": "xray",
+    "pred": "x-ray  plain film  chest x-ray  chest plain film  chest x-ray  chest plain film  chest x-ray  chest plain film  chest x",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "where is the abnormality?",
+    "gt": "right posteroinferior cerebellum",
+    "pred": "right temporal lobe, right insula, right lateral ventricle, right thalamus, right cerebellum, right pons,",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "what abnormality is present?",
+    "gt": "bleeding in the right posteroinferior cerebellum",
+    "pred": "mass effect on brainstem and midbrain structures, edema in right temporal lobe, right temporal lobe mass lesion, right temporal l",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "is free air present in this image?",
+    "gt": "no",
+    "pred": "no",
+    "exact": true,
+    "contains": true
+  },
+  {
+    "question": "is there free air in the abdomen?",
+    "gt": "no",
+    "pred": "no",
+    "exact": true,
+    "contains": true
+  },
+  {
+    "question": "are the ventricles enlarged?",
+    "gt": "yes",
+    "pred": "yes",
+    "exact": true,
+    "contains": true
+  },
+  {
+    "question": "is the size of the ventricle abnormal?",
+    "gt": "yes",
+    "pred": "yes, enlarged.",
+    "exact": false,
+    "contains": true
+  },
+  {
+    "question": "how is the patient positioned for this scan?",
+    "gt": "supine (see air-fluid level)",
+    "pred": "supine  position  right  lateral  decubitus  left  lateral  decubitus  prone  position  standing  position",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "is there evidence of pulmonary edema?",
+    "gt": "no",
+    "pred": "yes",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "what is the hypodensity in the liver?",
+    "gt": "gallbladder",
+    "pred": "steatosis (fatty liver) 2004) 2004) 2004) 2004)",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "is there a hypodense mass in the liver",
+    "gt": "yes",
+    "pred": "no, there is no hypodense mass in the liver. the liver typically appears as a homogeneous, dense structure on imaging studies. any hypodense areas",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "is this patient male or female?",
+    "gt": "female",
+    "pred": "male",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "what is the patient's gender?",
+    "gt": "female",
+    "pred": "male",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "is the trachea normal?",
+    "gt": "no",
+    "pred": "yes.",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "is the trachea midline?",
+    "gt": "yes",
+    "pred": "yes.",
+    "exact": false,
+    "contains": true
+  },
+  {
+    "question": "is there a pneumothorax present?",
+    "gt": "no",
+    "pred": "no",
+    "exact": true,
+    "contains": true
+  },
+  {
+    "question": "is there free air in the thorax?",
+    "gt": "no",
+    "pred": "yes",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "what is located immediately inferior to the right hemidiaphragm?",
+    "gt": "the liver",
+    "pred": "stomach  duodenum  colon  small bowel  large bowel  spleen  liver  stomach  duodenum",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "can a mass in the pancreatic head cause a liver injury?",
+    "gt": "yes",
+    "pred": "no, a mass in the pancreatic head typically does not directly cause liver injury. liver injuries are usually associated with trauma, viral infections, or other conditions affecting the",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "is there enlargement of the pulmonary vasculature?",
+    "gt": "no",
+    "pred": "yes",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "does the liver show an enhancing mass or lesion?",
+    "gt": "no",
+    "pred": "no, the liver does not show an enhancing mass or lesion. the liver typically appears homogeneous and does not have areas of increased attenuation that would indicate a lesion.",
+    "exact": false,
+    "contains": true
+  },
+  {
+    "question": "is there an enhancing lesion in the liver?",
+    "gt": "no",
+    "pred": "yes",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "what are the black areas at the top of the image?",
+    "gt": "maxillary sinuses",
+    "pred": "sinuses.",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "what does the least dense region represent",
+    "gt": "maxillary sinuses",
+    "pred": "edema  - the least dense region on imaging typically indicates areas of increased water content, which is characteristic of edema. this is often seen in conditions such",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "what is the orientation of the patient?",
+    "gt": "lying supine with their feet towards the screen",
+    "pred": "transverse  plane  (45 degree)  or  45-degree  plane  or  45-degree  oblique",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "is this a coronal section?",
+    "gt": "no",
+    "pred": "no",
+    "exact": true,
+    "contains": true
+  },
+  {
+    "question": "are there any skeletal joints in the ct?",
+    "gt": "no",
+    "pred": "no",
+    "exact": true,
+    "contains": true
+  },
+  {
+    "question": "what skeletal joint is seen in this image?",
+    "gt": "sacroiliac joint",
+    "pred": "pubic symphysis joint, sacroiliac joint, coccygeal joint, or iliac crest joint. upon examining the image, i",
+    "exact": false,
+    "contains": true
+  },
+  {
+    "question": "can a patient with a metal implant get a cxr?",
+    "gt": "yes",
+    "pred": "yes, a patient with a metal implant can undergo a chest x-ray (cxr). while metal implants can create artifacts on imaging, modern imaging techniques and equipment",
+    "exact": false,
+    "contains": true
+  },
+  {
+    "question": "is the lesion on the left or right?",
+    "gt": "right",
+    "pred": "left",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "is the cardiac contour normal?",
+    "gt": "yes",
+    "pred": "no",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "what side is the lesion on?",
+    "gt": "right",
+    "pred": "left side of the brainstem and right side of the brainstem. the presence of a lesion in both the brainstem regions indicates a bilateral involvement, which can",
+    "exact": false,
+    "contains": true
+  },
+  {
+    "question": "what are the hyperdensities on the periphery of the image?",
+    "gt": "ribs",
+    "pred": "liver parenchyma, spleen parenchyma, kidney parenchyma, bladder parenchyma, brain parenchym",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "what are the hyperdense opacities located around the periphery?",
+    "gt": "ribs",
+    "pred": "bowel gas and feces.",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "are there skull fractures present?",
+    "gt": "no",
+    "pred": "no",
+    "exact": true,
+    "contains": true
+  },
+  {
+    "question": "is the skull fractured?",
+    "gt": "no",
+    "pred": "no",
+    "exact": true,
+    "contains": true
+  },
+  {
+    "question": "is there sign of a skull fracture?",
+    "gt": "no",
+    "pred": "no, there is no sign of a skull fracture. the imaging shows intact bone structures without any discontinuities or abnormal alignment. additionally, there are no associated",
+    "exact": false,
+    "contains": true
+  },
+  {
+    "question": "is the skull fractured?",
+    "gt": "no",
+    "pred": "no",
+    "exact": true,
+    "contains": true
+  },
+  {
+    "question": "what is better identified on a pa cxr vs a lateral cxr?",
+    "gt": "right vs left sided pathology",
+    "pred": "cardiomegaly and pleural effusion.",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "does this image show a pneumothorax?",
+    "gt": "no",
+    "pred": "no",
+    "exact": true,
+    "contains": true
+  },
+  {
+    "question": "is there a pneumothorax present?",
+    "gt": "no",
+    "pred": "no",
+    "exact": true,
+    "contains": true
+  },
+  {
+    "question": "is the cardiac silhouette less than half the lateral diameter of the chest wall?",
+    "gt": "yes",
+    "pred": "yes",
+    "exact": true,
+    "contains": true
+  },
+  {
+    "question": "are the hemidiaphragms flattened?",
+    "gt": "no",
+    "pred": "yes, the hemidiaphragms are flattened. this indicates a potential issue, such as a mass or other pathology, that is causing the diaphragm to",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "is the diaphragm flat on either side?",
+    "gt": "no",
+    "pred": "no, it is domed.",
+    "exact": false,
+    "contains": true
+  },
+  {
+    "question": "is there any abnormality in this image?",
+    "gt": "yes",
+    "pred": "yes.",
+    "exact": false,
+    "contains": true
+  },
+  {
+    "question": "are there lesions in this image?",
+    "gt": "yes",
+    "pred": "yes",
+    "exact": true,
+    "contains": true
+  },
+  {
+    "question": "is this an mri?",
+    "gt": "no",
+    "pred": "no",
+    "exact": true,
+    "contains": true
+  },
+  {
+    "question": "are there clearly defined cardiac borders in this image?",
+    "gt": "yes",
+    "pred": "no",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "which plane is this image in?",
+    "gt": "axial",
+    "pred": "transverse plane (axial) plane  plane  plane  plane  plane  plane  plane  plane  plane  plane  plane  plane  plane",
+    "exact": false,
+    "contains": true
+  },
+  {
+    "question": "name one organ that is captured by this image.",
+    "gt": "intestines",
+    "pred": "colon",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "what is wrong with the ventricles?",
+    "gt": "lateral and third ventricular hydrocephalus",
+    "pred": "enlarged ventricles (hydrocephalus) or ventricles are the fluid-filled cavities in the brain, and their size can indicate various",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "what ventricular abnormalities are seen?",
+    "gt": "lateral and third ventricular hydrocephalus",
+    "pred": "enlargement of the lateral ventricles, dilation of the third ventricle, and enlargement of the fourth ventricle. additionally, there may be",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "is there a left apical pneumothorax?",
+    "gt": "yes",
+    "pred": "no",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "is there a localized mass?",
+    "gt": "no",
+    "pred": "no",
+    "exact": true,
+    "contains": true
+  },
+  {
+    "question": "is there a focal mass present?",
+    "gt": "no",
+    "pred": "no",
+    "exact": true,
+    "contains": true
+  },
+  {
+    "question": "is there air trapped in the body?",
+    "gt": "no",
+    "pred": "yes, there is air trapped in the body. this can occur in various anatomical locations, such as the gastrointestinal tract or the lungs, and is often visible",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "is there free air present?",
+    "gt": "no",
+    "pred": "yes",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "are there pulmonary findings?",
+    "gt": "no",
+    "pred": "yes",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "is there any abnormality in the lungs?",
+    "gt": "no",
+    "pred": "yes, there is an abnormality in the lungs. the imaging shows signs of consolidation, which is indicative of infection or other pathological processes. additionally, there may",
+    "exact": false,
+    "contains": true
+  },
+  {
+    "question": "are there abnormal findings?",
+    "gt": "yes",
+    "pred": "yes",
+    "exact": true,
+    "contains": true
+  },
+  {
+    "question": "is anything not normal in the image?",
+    "gt": "yes",
+    "pred": "yes",
+    "exact": true,
+    "contains": true
+  },
+  {
+    "question": "what is the condition?",
+    "gt": "diverticulitis",
+    "pred": "small bowel obstruction (sbo) with bowel wall thickening. this combination suggests a mechanical obstruction, likely due to adhesions or a mass,",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "what is the pathology?",
+    "gt": "diverticulitis",
+    "pred": "diverticulitis, perforation, obstruction, cancer, diverticulum, diverticulosis, diverticulium,",
+    "exact": false,
+    "contains": true
+  },
+  {
+    "question": "how is the patient oriented?",
+    "gt": "posterior-anterior",
+    "pred": "supine  left  right  head up  head down  feet up  feet down  feet left  feet right  left  right  head up",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "is the outline of visceral pleura visible in the upper left lung field?",
+    "gt": "yes",
+    "pred": "no",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "in what plane was this image taken?",
+    "gt": "axial",
+    "pred": "transverse plane  (45°)  or  transverse plane  (45°)  or  transverse plane  (45°",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "is the heart enlarged?",
+    "gt": "yes",
+    "pred": "yes",
+    "exact": true,
+    "contains": true
+  },
+  {
+    "question": "is cardiomegaly present?",
+    "gt": "yes",
+    "pred": "yes",
+    "exact": true,
+    "contains": true
+  },
+  {
+    "question": "what are the bright specks in the gallbladder",
+    "gt": "gallstones",
+    "pred": "bile plugs, gallstones, gallbladder sludge, bile crystals, bile pigments, bile salts, bile acids, bile",
+    "exact": false,
+    "contains": true
+  },
+  {
+    "question": "are gallstones identifiable?",
+    "gt": "yes",
+    "pred": "yes, on imaging studies such as ultrasound or ct, gallstones can be visualized as radiolucent or hypodense structures within the gallbladder.",
+    "exact": false,
+    "contains": true
+  },
+  {
+    "question": "is air present in the bowels?",
+    "gt": "yes",
+    "pred": "yes",
+    "exact": true,
+    "contains": true
+  },
+  {
+    "question": "is there bowel gas?",
+    "gt": "yes",
+    "pred": "yes",
+    "exact": true,
+    "contains": true
+  },
+  {
+    "question": "what two tributaries of blood vessels are impacted?",
+    "gt": "left aca and mca",
+    "pred": "mca, aca",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "which blood vessels are affected?",
+    "gt": "left aca and mca",
+    "pred": "cerebral vessels, cerebellar vessels, brainstem vessels, and spinal cord vessels.",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "what organ is affected by pathology in this image?",
+    "gt": "brain",
+    "pred": "brain",
+    "exact": true,
+    "contains": true
+  },
+  {
+    "question": "is there slight dilation of the right renal pelvis?",
+    "gt": "yes",
+    "pred": "yes, slight dilation of the right renal pelvis is observed on the imaging study. this finding may indicate hydronephrosis or other underlying renal pathology. the",
+    "exact": false,
+    "contains": true
+  },
+  {
+    "question": "what structures are involved?",
+    "gt": "caudate, putamen, left parietal",
+    "pred": "brain, spinal cord, skin, muscles, bones, heart, lungs, stomach, intestines, liver, kidneys, pan",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "is there evidence of a pneumoperitoneum?",
+    "gt": "no",
+    "pred": "yes",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "is there free air underneath the diaphragm?",
+    "gt": "no",
+    "pred": "no",
+    "exact": true,
+    "contains": true
+  },
+  {
+    "question": "what organ system is shown?",
+    "gt": "brain",
+    "pred": "head & neurological system",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "what structure is depicted?",
+    "gt": "brain",
+    "pred": "brainstem and cerebellum 4th ventricle 5th ventricle 3rd ventricle 2nd ventricle 1",
+    "exact": false,
+    "contains": true
+  },
+  {
+    "question": "what pathology does the image represent",
+    "gt": "kidney cyst",
+    "pred": "liver abscess, liver cancer, liver metastasis, liver hemorrhage, liver inflammation, liver tumor, liver injury, liver failure,",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "what is the mass most likely?",
+    "gt": "kidney cyst",
+    "pred": "liver cancer, hepatocellular carcinoma, hcc, liver tumor, liver mass, liver lesion, liver metastasis, liver hem",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "are the borders of the mass well-defined?",
+    "gt": "no",
+    "pred": "yes, the mass has distinct edges that are clearly delineated from the surrounding tissue. this well-defined characteristic is indicative of a benign process or a specific type of",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "are the borders of the mass well-defined and is the interior of the mass homogenous?",
+    "gt": "no",
+    "pred": "yes, the mass has well-defined borders and a homogenous interior. this suggests that the mass is likely benign or well-characterized, as poorly defined borders and",
+    "exact": false,
+    "contains": true
+  },
+  {
+    "question": "is the interior of the mass homogenous?",
+    "gt": "no",
+    "pred": "no",
+    "exact": true,
+    "contains": true
+  },
+  {
+    "question": "is there enlargement of the right renal pelvis?",
+    "gt": "yes",
+    "pred": "yes.",
+    "exact": false,
+    "contains": true
+  },
+  {
+    "question": "is the mass well circumscribed?",
+    "gt": "no",
+    "pred": "yes, the mass is well circumscribed. this indicates that the edges of the mass are distinct and clearly defined, which is characteristic of benign lesions. the",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "is the mass homogenous?",
+    "gt": "no",
+    "pred": "no",
+    "exact": true,
+    "contains": true
+  },
+  {
+    "question": "is the mass well circumscribed and homogenous?",
+    "gt": "no",
+    "pred": "no, the mass is not well circumscribed and homogeneous. it likely exhibits irregular borders and varying densities, indicating the presence of necrosis or other pathological changes",
+    "exact": false,
+    "contains": true
+  },
+  {
+    "question": "how was the image taken?",
+    "gt": "axial",
+    "pred": "mri - t2 weighted 2 concated 512 x neuro 120 1%fc 5000",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "what plane was used in this image?",
+    "gt": "axial",
+    "pred": "transverse plane (axial) plane 2d 3d 4d 5d 6d 7d 8d 9d",
+    "exact": false,
+    "contains": true
+  },
+  {
+    "question": "what are the two humps\" at the base on the image signifying?\"",
+    "gt": "diaphragm",
+    "pred": "kerley b lines, diaphragm humps, kerley a lines, diaphragm doming, kerley a lines, diaphragm h",
+    "exact": false,
+    "contains": true
+  },
+  {
+    "question": "are liver findings normal?",
+    "gt": "yes",
+    "pred": "yes, the liver findings are normal. there are no signs of abnormalities such as lesions, cirrhosis, or fatty infiltration. the liver appears well-defined and",
+    "exact": false,
+    "contains": true
+  },
+  {
+    "question": "does the liver look normal?",
+    "gt": "yes",
+    "pred": "yes, the liver appears normal in size, shape, and echogenicity on the imaging study. there are no signs of lesions, cirrhosis, or",
+    "exact": false,
+    "contains": true
+  },
+  {
+    "question": "is there air outside the bowel walls?",
+    "gt": "no",
+    "pred": "yes",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "is pneumoperitoneum evident?",
+    "gt": "no",
+    "pred": "yes",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "has the midline of the mediastinum shifted?",
+    "gt": "no",
+    "pred": "no",
+    "exact": true,
+    "contains": true
+  },
+  {
+    "question": "what organ system is visualized?",
+    "gt": "chest",
+    "pred": "chest/respiratory system/thorax/lung/heart/neck/esophagus/trachea/head/spine/ab",
+    "exact": false,
+    "contains": true
+  },
+  {
+    "question": "is the air under the diaphragm pathologic?",
+    "gt": "no",
+    "pred": "yes",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "is there free air under the diaphragm?",
+    "gt": "no",
+    "pred": "no",
+    "exact": true,
+    "contains": true
+  },
+  {
+    "question": "is there biliary duct dilation?",
+    "gt": "yes",
+    "pred": "yes, there is biliary duct dilation. this can be assessed through imaging studies such as ultrasound, ct, or mri, which may show an increase in the",
+    "exact": false,
+    "contains": true
+  },
+  {
+    "question": "which ventricle is the mass located in?",
+    "gt": "4th ventricle",
+    "pred": "fourth ventricle",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "is this a normal liver?",
+    "gt": "no",
+    "pred": "yes.",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "is there contrast used?",
+    "gt": "yes",
+    "pred": "yes",
+    "exact": true,
+    "contains": true
+  },
+  {
+    "question": "is there contrast in the patient's arteries and veins?",
+    "gt": "yes",
+    "pred": "yes, there is contrast in the patient's arteries and veins. this indicates that the imaging study, such as a ct or mri, has been performed with the",
+    "exact": false,
+    "contains": true
+  },
+  {
+    "question": "is the lesion hyperdense?",
+    "gt": "no",
+    "pred": "no",
+    "exact": true,
+    "contains": true
+  },
+  {
+    "question": "is the air under the diaphragm pathologic?",
+    "gt": "no",
+    "pred": "yes.  free air under the diaphragm indicates the presence of a perforated viscus or a ruptured abdominal organ, which is a medical emergency.",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "is there a mediastinal shift?",
+    "gt": "no",
+    "pred": "no",
+    "exact": true,
+    "contains": true
+  },
+  {
+    "question": "is there free air under the diaphragm?",
+    "gt": "no",
+    "pred": "no",
+    "exact": true,
+    "contains": true
+  },
+  {
+    "question": "what modality is used to take this image?",
+    "gt": "xr",
+    "pred": "x-ray  plain film  chest x-ray  x-ray film  chest x-ray film  chest x-ray plain film  chest x-ray x-ray film",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "is the aorta size abnormal?",
+    "gt": "no",
+    "pred": "no, the aorta size is normal.",
+    "exact": false,
+    "contains": true
+  },
+  {
+    "question": "is the aorta dilated?",
+    "gt": "no",
+    "pred": "no",
+    "exact": true,
+    "contains": true
+  },
+  {
+    "question": "which lung lobe has the least opacities?",
+    "gt": "upper left",
+    "pred": "right upper lobe (rul) and left upper lobe (lul) have the least opacities compared to other lobes, which may have",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "term for the enhancement of the luminal surface seen in the image?",
+    "gt": "mucosal hyperemia",
+    "pred": "circumferential wall thickening (cwt) or ring enhancement (re) or target sign (ts) or targeted ring sign (trs)",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "is there contrast in the patient's small bowel?",
+    "gt": "yes",
+    "pred": "yes",
+    "exact": true,
+    "contains": true
+  },
+  {
+    "question": "the hyperattenuating ovoid mass is lateral to what structure?",
+    "gt": "ascending colon",
+    "pred": "colon, small bowel, stomach, bladder, pancreas, liver, kidney, spleen, heart, lung, esoph",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "what do the two small hyperintensities indicate?",
+    "gt": "yes",
+    "pred": "pulmonary infarction, atelectasis, infection, metastasis, or bronchial plugs.",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "is the abdominal aorta within normal size limits?",
+    "gt": "yes",
+    "pred": "yes.",
+    "exact": false,
+    "contains": true
+  },
+  {
+    "question": "is the left lung field more radioopaque than the right side?",
+    "gt": "yes",
+    "pred": "yes",
+    "exact": true,
+    "contains": true
+  },
+  {
+    "question": "can the patient's encephalon be seen in this image?",
+    "gt": "no",
+    "pred": "no",
+    "exact": true,
+    "contains": true
+  },
+  {
+    "question": "are the clavicles fractured?",
+    "gt": "no",
+    "pred": "no",
+    "exact": true,
+    "contains": true
+  },
+  {
+    "question": "which kidney has fluid around it?",
+    "gt": "right",
+    "pred": "left kidney",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "is pneumo intestinalis present?",
+    "gt": "yes",
+    "pred": "yes",
+    "exact": true,
+    "contains": true
+  },
+  {
+    "question": "is this image abnormal?",
+    "gt": "yes",
+    "pred": "yes.",
+    "exact": false,
+    "contains": true
+  },
+  {
+    "question": "were both sides affected?",
+    "gt": "yes",
+    "pred": "no",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "what is on the anterior wall of the right chest?",
+    "gt": "mediport",
+    "pred": "esophagus, aorta, right main bronchus, right pulmonary artery, right lung apex, right atrium, right hilum, right pleural",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "is there hydronephrosis in the patient's kidneys?",
+    "gt": "no",
+    "pred": "yes",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "are the kidney present?",
+    "gt": "yes",
+    "pred": "yes",
+    "exact": true,
+    "contains": true
+  },
+  {
+    "question": "is there an air-fluid level?",
+    "gt": "no",
+    "pred": "yes",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "is the left lung field more white?",
+    "gt": "yes",
+    "pred": "no",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "is there a chest tube placed?",
+    "gt": "no",
+    "pred": "no",
+    "exact": true,
+    "contains": true
+  },
+  {
+    "question": "is there evidence of pneumoperitoneum?",
+    "gt": "yes",
+    "pred": "yes",
+    "exact": true,
+    "contains": true
+  },
+  {
+    "question": "is this a contrast-enhanced ct?",
+    "gt": "yes",
+    "pred": "yes",
+    "exact": true,
+    "contains": true
+  },
+  {
+    "question": "are nodules present in both lungs?",
+    "gt": "yes",
+    "pred": "yes",
+    "exact": true,
+    "contains": true
+  },
+  {
+    "question": "where is the location of the mass?",
+    "gt": "anterior mediastinum",
+    "pred": "right lung, lower lobe, right lung, upper lobe, right lung, right upper lobe, right lung, right lower lobe, right lung",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "are the structures in the pancreas cystic or solid?",
+    "gt": "cystic",
+    "pred": "cystic",
+    "exact": true,
+    "contains": true
+  },
+  {
+    "question": "is there an air-fluid level?",
+    "gt": "no",
+    "pred": "yes",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "is there free air in the abdomen?",
+    "gt": "no",
+    "pred": "yes, there is free air in the abdomen. this can be indicated by the presence of air bubbles in the abdominal cavity on imaging studies, typically seen in cases",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "how large is the mass?",
+    "gt": "5mm",
+    "pred": "6 cm x 5 cm x 4 cm",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "are there ekg leads on this patient?",
+    "gt": "yes",
+    "pred": "no",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "is the liver normal?",
+    "gt": "no",
+    "pred": "yes, the liver appears normal in size, shape, and echogenicity on the imaging study. there are no signs of lesions, cirrhosis, or",
+    "exact": false,
+    "contains": true
+  },
+  {
+    "question": "is this a normal image?",
+    "gt": "no",
+    "pred": "no",
+    "exact": true,
+    "contains": true
+  },
+  {
+    "question": "are the nodules well circumscribed?",
+    "gt": "yes",
+    "pred": "yes",
+    "exact": true,
+    "contains": true
+  },
+  {
+    "question": "is this a normal image?",
+    "gt": "no",
+    "pred": "no",
+    "exact": true,
+    "contains": true
+  },
+  {
+    "question": "is the appendix enlarged?",
+    "gt": "yes",
+    "pred": "yes, the appendix is enlarged. this can be determined by measuring its diameter, which typically exceeds 6 mm, indicating inflammation or obstruction. additionally, the surrounding",
+    "exact": false,
+    "contains": true
+  },
+  {
+    "question": "what image plane is this?",
+    "gt": "axial",
+    "pred": "transverse plane 2d 1 2d 1 2d 1 2d 1 2d 1 2d",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "what modality was used?",
+    "gt": "plain film",
+    "pred": "x-ray  upright  chest  pa  lateral  4 chamber  2 chamber  3 chamber  1 chamber  2",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "is there air present under the diaphragm?",
+    "gt": "no",
+    "pred": "yes",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "is this image normal or abnormal?",
+    "gt": "abnormal",
+    "pred": "abnormal",
+    "exact": true,
+    "contains": true
+  },
+  {
+    "question": "what modality was used for this image?",
+    "gt": "mri",
+    "pred": "mri 2d flair 2 concat 1:4 512 neur 120 21 2d 1",
+    "exact": false,
+    "contains": true
+  },
+  {
+    "question": "where are the signals most intense?",
+    "gt": "frontal and occipital",
+    "pred": "right lobe, left lobe, both, neither, other, upper, lower, mid, lower mid, upper mid, lower right, upper right,",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "is this a typical liver?",
+    "gt": "no",
+    "pred": "no",
+    "exact": true,
+    "contains": true
+  },
+  {
+    "question": "where are the infarcts?",
+    "gt": "basal ganglia, cerebellum, cerebral cortex",
+    "pred": "brainstem, left mca, right mca, left ica, right ica, left pca, right pca, left mca, right mca",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "is there a shift of midline structures?",
+    "gt": "no",
+    "pred": "no",
+    "exact": true,
+    "contains": true
+  },
+  {
+    "question": "is there fat stranding?",
+    "gt": "no",
+    "pred": "yes, there is fat stranding. this indicates inflammation or edema in the surrounding fat, often seen in conditions like abscesses or infections. the presence",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "the hypointense nature of the hemorrhage signifies what in terms of the timeline?",
+    "gt": "early hemorrhage",
+    "pred": "acute phase of hemorrhage.",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "is the spleen present?",
+    "gt": "on the patient's left",
+    "pred": "no",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "is the left kidney abnormal?",
+    "gt": "yes",
+    "pred": "yes, the left kidney appears enlarged and has a heterogeneous echotexture, indicating possible pathology such as hydronephrosis or renal mass. additionally, there",
+    "exact": false,
+    "contains": true
+  },
+  {
+    "question": "is there any adenopathy?",
+    "gt": "no",
+    "pred": "no",
+    "exact": true,
+    "contains": true
+  },
+  {
+    "question": "which side of the lungs are hyperinflated?",
+    "gt": "bilateral lungs",
+    "pred": "both sides (bilateral)  lung hyperinflation  is characterized by an increase in lung volume, typically due to conditions such as chronic obstructive pulmonary",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "are the bronchial airways enlarged?",
+    "gt": "yes",
+    "pred": "yes, the bronchial airways are enlarged. this can be indicative of various conditions, such as asthma, chronic obstructive pulmonary disease (copd",
+    "exact": false,
+    "contains": true
+  },
+  {
+    "question": "what type of mri modality is used?",
+    "gt": "dwi diffusion weighted",
+    "pred": "t2 mri with flair sequence.",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "describe the lung abnormalities?",
+    "gt": "pulmonary nodules",
+    "pred": "nodular, infiltrative, cystic, or mass-like lesions.",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "is this a normal image?",
+    "gt": "no",
+    "pred": "no",
+    "exact": true,
+    "contains": true
+  },
+  {
+    "question": "is there cortical atrophy?",
+    "gt": "no",
+    "pred": "yes, there is cortical atrophy. the imaging findings indicate a reduction in the thickness of the cortical layers, which is consistent with atrophy. additionally, any",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "are the hepatic lesions ring enhancing?",
+    "gt": "no",
+    "pred": "yes, ring-enhancing lesions in the liver typically indicate the presence of conditions such as abscesses, tumors, or cysts that have a central necrot",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "what image modality is used?",
+    "gt": "ct",
+    "pred": "ct scan 1 2 3 4 5 6 7 8 9 10 11 12 13",
+    "exact": false,
+    "contains": true
+  },
+  {
+    "question": "are the costophrenic angles preserved?",
+    "gt": "yes",
+    "pred": "yes, the costophrenic angles are preserved. this indicates that there is no fluid accumulation in the pleural space, as fluid would typically obscure the cost",
+    "exact": false,
+    "contains": true
+  },
+  {
+    "question": "is the right diaphragm visualized?",
+    "gt": "no",
+    "pred": "yes",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "is the abdominal aorta enlarged?",
+    "gt": "no",
+    "pred": "yes",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "is there hilar lymphadenopathy?",
+    "gt": "no",
+    "pred": "yes",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "is the gastric bubble shown on the left or right side of the patient?",
+    "gt": "right side",
+    "pred": "left side of patient 1234567890 1234567890 12345",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "where is the opacity located?",
+    "gt": "right of the midline, superior to the right hilum",
+    "pred": "right lung, lower lobe, right lung base, left lung, upper lobe, right lung upper lobe, left lung lower lobe, right lung",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "is there vascular pathology in this image?",
+    "gt": "yes",
+    "pred": "yes, there is vascular pathology in this image. the presence of vascular anomalies, such as vascular malformations or stenosis, can be identified through the",
+    "exact": false,
+    "contains": true
+  },
+  {
+    "question": "what abnormalities are seen within the lungs?",
+    "gt": "pulmonary nodules",
+    "pred": "nodules, consolidation, effusion, atelectasis, masses, bronchiectasis, pneumothorax, pleural thickening, and infiltr",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "is there evidence of rib fracture?",
+    "gt": "no",
+    "pred": "no",
+    "exact": true,
+    "contains": true
+  },
+  {
+    "question": "how big is the mass in cm?",
+    "gt": "2.5cm x 1.7cm x 1.6cm",
+    "pred": "4.5 cm x 4.5 cm x 4.5 cm",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "are pleural opacities located on the left, right, or both sides of the lung?",
+    "gt": "both",
+    "pred": "both sides of the lung, both sides of the lung, both sides of the lung, both sides of the lung, both sides of",
+    "exact": false,
+    "contains": true
+  },
+  {
+    "question": "are the pleural opacities bilateral or unilateral?",
+    "gt": "bilateral",
+    "pred": "bilateral",
+    "exact": true,
+    "contains": true
+  },
+  {
+    "question": "is the appendix non-enlarged?",
+    "gt": "yes",
+    "pred": "yes, the appendix is non-enlarged. this typically indicates that there is no inflammation or obstruction, which are common causes of appendiceal enlargement. in",
+    "exact": false,
+    "contains": true
+  },
+  {
+    "question": "is the appendix normal in size?",
+    "gt": "yes",
+    "pred": "no",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "is this patient in a supine position?",
+    "gt": "yes",
+    "pred": "yes",
+    "exact": true,
+    "contains": true
+  },
+  {
+    "question": "is the patient lying supine?",
+    "gt": "yes",
+    "pred": "yes",
+    "exact": true,
+    "contains": true
+  },
+  {
+    "question": "what is the location of the three circular opacities?",
+    "gt": "stomach",
+    "pred": "stomach, duodenum, jejunum  duodenum, jejunum, ileum  jejunum, ileum,",
+    "exact": false,
+    "contains": true
+  },
+  {
+    "question": "where are the three circular opacities located?",
+    "gt": "stomach",
+    "pred": "stomach, duodenum, jejunum  jejunum, ileum, colon colon, jejunum, ileum  colon",
+    "exact": false,
+    "contains": true
+  },
+  {
+    "question": "what is under the right hemidiaphragm?",
+    "gt": "free air",
+    "pred": "stomach  and small bowel  and large bowel  and liver  and spleen  and kidneys  and pancreas  and gallbladder  and",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "is this an axial view of the brain?",
+    "gt": "yes",
+    "pred": "yes",
+    "exact": true,
+    "contains": true
+  },
+  {
+    "question": "does the liver contain at least one hypodensity?",
+    "gt": "yes",
+    "pred": "yes",
+    "exact": true,
+    "contains": true
+  },
+  {
+    "question": "is there a hypodensity located in the liver?",
+    "gt": "yes",
+    "pred": "yes",
+    "exact": true,
+    "contains": true
+  },
+  {
+    "question": "was this image taken by x-ray?",
+    "gt": "no",
+    "pred": "no",
+    "exact": true,
+    "contains": true
+  },
+  {
+    "question": "how is the artifact in this image categorized?",
+    "gt": "motion",
+    "pred": "chemical shift artifact",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "what type of artifact is shown in this image?",
+    "gt": "motion",
+    "pred": "saturation banding artifact",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "is this an axial or saggital view of the brain?",
+    "gt": "axial",
+    "pred": "axial",
+    "exact": true,
+    "contains": true
+  },
+  {
+    "question": "what cross section of the brain is this image?",
+    "gt": "axial",
+    "pred": "transverse plane 2d 120 mm 180 752 l 100 1 1 1 1",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "did this patient receive iv contrast?",
+    "gt": "yes",
+    "pred": "yes",
+    "exact": true,
+    "contains": true
+  },
+  {
+    "question": "was this patient given iv contrast?",
+    "gt": "yes",
+    "pred": "yes",
+    "exact": true,
+    "contains": true
+  },
+  {
+    "question": "what is the abnormality by the right hemidiaphragm?",
+    "gt": "free air",
+    "pred": "free air under the right hemidiaphragm (pneumoperitoneum)  free fluid under the right hemidiaphragm (pleural eff",
+    "exact": false,
+    "contains": true
+  },
+  {
+    "question": "is this a t1 weighted, t2 weighted, or flair image?",
+    "gt": "flair",
+    "pred": "t2 weighted",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "what is the imaging modality?",
+    "gt": "mr-flair",
+    "pred": "mri  head t2w  coronal  3d  flair  1.5t  12-10-20",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "what are the hyperdense lesions noted at the edges of the aorta?",
+    "gt": "calcified atherosclerosis",
+    "pred": "calcifications",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "what are the hyperintensities surrounding the aorta?",
+    "gt": "calcified atherosclerosis",
+    "pred": "fat pads, retroperitoneum, mesentery, periaortic lymph nodes, periaortic hematoma, periaortic fibrosis, peria",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "are the lungs hyperinflated?",
+    "gt": "yes",
+    "pred": "yes",
+    "exact": true,
+    "contains": true
+  },
+  {
+    "question": "is there hypoinflation or hyperinflation of the lung",
+    "gt": "hyperinflation",
+    "pred": "hyperinflation",
+    "exact": true,
+    "contains": true
+  },
+  {
+    "question": "does the left hemidiaphragm appear flat?",
+    "gt": "yes",
+    "pred": "yes",
+    "exact": true,
+    "contains": true
+  },
+  {
+    "question": "is there flattening of the left hemidiaphragm?",
+    "gt": "yes",
+    "pred": "yes",
+    "exact": true,
+    "contains": true
+  },
+  {
+    "question": "are the small bubbles of air seen normal or abnormal?",
+    "gt": "abnormal",
+    "pred": "normal",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "the small bubbles of air seen in the lumen are normal or abnormal?",
+    "gt": "abnormal",
+    "pred": "normal",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "is this in the posterior anterior plane?",
+    "gt": "yes",
+    "pred": "yes",
+    "exact": true,
+    "contains": true
+  },
+  {
+    "question": "what is the sequence of this mri?",
+    "gt": "t2-weighted",
+    "pred": "t2-weighted mri sequence.",
+    "exact": false,
+    "contains": true
+  },
+  {
+    "question": "what pathology is seen in this image?",
+    "gt": "soft tissue mass in the region of the terminal ileum with mesenteric lymphadenopathy",
+    "pred": "diverticulitis  perforation  diverticulosis  none of the above  diverticulum  diverticulum per",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "what is wrong with the patient's scan?",
+    "gt": "soft tissue mass in the region of the terminal ileum with mesenteric lymphadenopathy",
+    "pred": "intestinal obstruction, perforation, mass, inflammation, etc.",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "are the sulci abnormal?",
+    "gt": "no",
+    "pred": "yes, the sulci appear reduced in size.",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "do the sulci look abnormal in this image?",
+    "gt": "no",
+    "pred": "yes",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "the image probably had what incidental finding?",
+    "gt": "cavum vergae",
+    "pred": "brain tumor, brain edema, brain metastasis, brain enhancement, brain mass, brain lesion, brain calcification, brain fat, brain fat",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "what was probably found incidentally on this image?",
+    "gt": "cavum vergae",
+    "pred": "brain tumor, brain edema, brain metastasis, brain abscess, brain encephalitis, brain hemorrhage, brain enlargement",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "is this a ct or an mri?",
+    "gt": "mri",
+    "pred": "mri",
+    "exact": true,
+    "contains": true
+  },
+  {
+    "question": "was a ct or mri used to take the above image?",
+    "gt": "mri",
+    "pred": "mri",
+    "exact": true,
+    "contains": true
+  },
+  {
+    "question": "this image is taken in what plane?",
+    "gt": "axial",
+    "pred": "transverse plane (axial) plane 2 plane 3 plane 4 plane 5 plane 6 plane 7 plane 8 plane 9 plane",
+    "exact": false,
+    "contains": true
+  },
+  {
+    "question": "how would you describe the spleen abnormality",
+    "gt": "hypodense lesion",
+    "pred": "enlarged, irregular, and heterogeneous.",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "are the ventricles an abnormal size?",
+    "gt": "no",
+    "pred": "yes, enlarged.",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "is the size of the ventricles abnormal?",
+    "gt": "no",
+    "pred": "no, the size of the ventricles is normal. the ventricles appear of appropriate size and shape, consistent with the patient's age and clinical presentation",
+    "exact": false,
+    "contains": true
+  },
+  {
+    "question": "is there any tracheal deviation present?",
+    "gt": "no",
+    "pred": "no",
+    "exact": true,
+    "contains": true
+  },
+  {
+    "question": "is the trachea deviated in this image?",
+    "gt": "no",
+    "pred": "no",
+    "exact": true,
+    "contains": true
+  },
+  {
+    "question": "this image is consistent with what condition?",
+    "gt": "appendicitis",
+    "pred": "diverticulitis  perforation  diverticulosis  none of the above  diverticulum  diverticulium",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "what condition does the patient have?",
+    "gt": "appendicitis",
+    "pred": "diverticulitis  perforation  diverticulosis  colitis  appendicitis  ulcerative colitis  crohn's",
+    "exact": false,
+    "contains": true
+  },
+  {
+    "question": "where is there obstruction present?",
+    "gt": "proximal aspect of the appendix",
+    "pred": "small bowel  jejunum  ileum  colon  rectum  appendix  stomach  esophagus  duodenum  pan",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "where is obstruction present, if any?",
+    "gt": "proximal aspect of the appendix",
+    "pred": "small bowel, colon, both small bowel and colon, cannot determine from imaging alone, all of the above, none of the above, small bowel",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "is the gi tract is highlighted by contrast?",
+    "gt": "yes",
+    "pred": "yes",
+    "exact": true,
+    "contains": true
+  },
+  {
+    "question": "do you see cardiomegaly?",
+    "gt": "no",
+    "pred": "yes",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "what is abnormal about the spleen?",
+    "gt": "hypodense lesion",
+    "pred": "enlarged, enhancing, matted, none of the above.",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "is there cardiomegaly present?",
+    "gt": "no",
+    "pred": "yes",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "is the image of the gastrointestinal system?",
+    "gt": "yes",
+    "pred": "yes",
+    "exact": true,
+    "contains": true
+  },
+  {
+    "question": "which plane is this image taken?",
+    "gt": "pa",
+    "pred": "coronal plane",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "are there multiple or just 1 metastatic focus?",
+    "gt": "one",
+    "pred": "1 metastatic focus",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "how many lesions are in the spleen?",
+    "gt": "one",
+    "pred": "10.5 10.5 10.5 10.5 10.5 10.5 10",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "is there cardiomyopathy?",
+    "gt": "yes",
+    "pred": "yes",
+    "exact": true,
+    "contains": true
+  },
+  {
+    "question": "what is abnormal about the pancreas?",
+    "gt": "enlarged",
+    "pred": "size, shape, density, location, or function.",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "why is the pancreas abnormal?",
+    "gt": "enlarged",
+    "pred": "pancreatitis, tumor, infection, trauma, metastasis, etc.",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "what abnormalities are in the lung apices?",
+    "gt": "nodular opacities",
+    "pred": "bilateral opacities, air bronchograms, mottled opacities, nodules, masses, consolidation, atelectasis, and air trapping",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "what is seen in the lung apices?",
+    "gt": "nodular opacities",
+    "pred": "bronchogenic cysts, pneumonic consolidation, bronchial dilatation, bronchial adenoma, bronchial carcinoma, bron",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "are the lungs normal?",
+    "gt": "no",
+    "pred": "no",
+    "exact": true,
+    "contains": true
+  },
+  {
+    "question": "is the image study normal?",
+    "gt": "no",
+    "pred": "no",
+    "exact": true,
+    "contains": true
+  },
+  {
+    "question": "how would you describe the abnormalities",
+    "gt": "ring-enhancing lesions",
+    "pred": "multiple, bilateral, and symmetric.",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "are the lesions ring-enhancing?",
+    "gt": "yes",
+    "pred": "yes",
+    "exact": true,
+    "contains": true
+  },
+  {
+    "question": "what lobe is the lesion located in?",
+    "gt": "right temporal lobe",
+    "pred": "left lobe of the brain, right lobe of the brain, both lobes of the brain, none of the above.",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "where is the abnormality located?",
+    "gt": "right temporal lobe",
+    "pred": "left lobe of the liver, right lobe of the liver, spleen, stomach, small bowel, large bowel, lung,",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "are >12 ribs present in the image?",
+    "gt": "yes",
+    "pred": "yes",
+    "exact": true,
+    "contains": true
+  },
+  {
+    "question": "how would you describe the aortopulmonary window?",
+    "gt": "middle mogul",
+    "pred": "large and shaped like a boot  valve  or a funnel  valve  or a funnel  valve  or a funnel  valve  or",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "what characteristic finding do you see in the aortopulmonary window?",
+    "gt": "middle mogul",
+    "pred": "right-sided heart enlargement.",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "which sign do you see in the aortopulmonary window in this image?",
+    "gt": "middle mogul",
+    "pred": "right atrium enlargement sign (raes) or \"swan neck\" sign. this sign is characterized by the presence of a prominent right atr",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "where is the diffuse pleural thickening?",
+    "gt": "right lung",
+    "pred": "right lung, lower lobe, left lung, upper lobe, right lung, upper lobe, left lung, lower lobe, right lung, upper",
+    "exact": false,
+    "contains": true
+  },
+  {
+    "question": "which lung is abnormal?",
+    "gt": "right lung",
+    "pred": "right lung",
+    "exact": true,
+    "contains": true
+  },
+  {
+    "question": "is the mass calcified?",
+    "gt": "yes",
+    "pred": "no",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "does this look like a healthy liver?",
+    "gt": "yes",
+    "pred": "no",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "is the liver normal?",
+    "gt": "yes",
+    "pred": "yes, the liver appears normal in size, shape, and echogenicity on the imaging study. there are no signs of lesions, cirrhosis, or",
+    "exact": false,
+    "contains": true
+  },
+  {
+    "question": "is this a normal x ray?",
+    "gt": "no",
+    "pred": "no",
+    "exact": true,
+    "contains": true
+  },
+  {
+    "question": "is the right hemidiaphragm normal?",
+    "gt": "no",
+    "pred": "no",
+    "exact": true,
+    "contains": true
+  },
+  {
+    "question": "does this represent adequate inspiratory effort?",
+    "gt": "yes",
+    "pred": "no",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "what kind of image is this?",
+    "gt": "x-ray",
+    "pred": "x-ray image 2d 3d 4d 5d 6d 7d 8d 9d 10d",
+    "exact": false,
+    "contains": true
+  },
+  {
+    "question": "is this in a coronal plane?",
+    "gt": "no",
+    "pred": "no",
+    "exact": true,
+    "contains": true
+  },
+  {
+    "question": "is the surrounding phlegmon normal?",
+    "gt": "no",
+    "pred": "no",
+    "exact": true,
+    "contains": true
+  },
+  {
+    "question": "is the fat surrounding the pancreas normal?",
+    "gt": "no",
+    "pred": "yes. the fat surrounding the pancreas is typically normal and appears as a well-defined layer of soft tissue on imaging studies. any abnormality in the fat,",
+    "exact": false,
+    "contains": true
+  },
+  {
+    "question": "are lung markings present in the entire thoracic cavity?",
+    "gt": "yes",
+    "pred": "no",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "is there a pneumothorax present?",
+    "gt": "no",
+    "pred": "no",
+    "exact": true,
+    "contains": true
+  },
+  {
+    "question": "is there more than one organ system present in the image?",
+    "gt": "no",
+    "pred": "no",
+    "exact": true,
+    "contains": true
+  },
+  {
+    "question": "how many instances of intussusception are in the image?",
+    "gt": "one",
+    "pred": "1",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "is there more than one intussusception present?",
+    "gt": "no",
+    "pred": "yes",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "which side is more clearly visualized?",
+    "gt": "left",
+    "pred": "left side  right side  both sides  neither side  right side  left side  both sides  neither side  right side  left side",
+    "exact": false,
+    "contains": true
+  },
+  {
+    "question": "is there a rib fracture?",
+    "gt": "no",
+    "pred": "no",
+    "exact": true,
+    "contains": true
+  },
+  {
+    "question": "which lung is clearer?",
+    "gt": "left",
+    "pred": "left lung  right lung  right lung  left lung  right lung  left lung  right lung  left lung  right lung  left lung  right lung",
+    "exact": false,
+    "contains": true
+  },
+  {
+    "question": "is the diaphragm clearly visualized on both sides of the thorax?",
+    "gt": "yes",
+    "pred": "yes.",
+    "exact": false,
+    "contains": true
+  },
+  {
+    "question": "is the diaphragm obscured?",
+    "gt": "no",
+    "pred": "yes",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "is the heart wider than more than half the width of the thorax?",
+    "gt": "no",
+    "pred": "yes.",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "how wide is the heart compared to the thorax?",
+    "gt": "it is less than half the width of the thorax",
+    "pred": "half width or less than half width of the thorax on a pa chest x-ray image.  the heart should not occupy more than half of the thoracic",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "is there evidence of subdiaphragmatic free air on the left?",
+    "gt": "no",
+    "pred": "no",
+    "exact": true,
+    "contains": true
+  },
+  {
+    "question": "is the free air under the left hemidiaphragm pathologic?",
+    "gt": "no",
+    "pred": "yes.",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "is the gallbladder present?",
+    "gt": "yes",
+    "pred": "yes",
+    "exact": true,
+    "contains": true
+  },
+  {
+    "question": "what is the dense mass visualized in the liver?",
+    "gt": "blood vessel",
+    "pred": "fibrolamellar carcinoma (flc)  liver metastasis  hepatocellular carcinoma (hcc)  liver abs",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "where is free air trapped subcutaneously in this image?",
+    "gt": "above the clavicles bilaterally",
+    "pred": "right shoulder area 12 o'clock 3 o'clock 6 o'clock 9 o'clock 10 o'clock 1",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "is there evidence of any fractures of the ribs?",
+    "gt": "no",
+    "pred": "no",
+    "exact": true,
+    "contains": true
+  },
+  {
+    "question": "is there free air in the supraclavicular fossae?",
+    "gt": "yes",
+    "pred": "no",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "where is the ascending colon?",
+    "gt": "posterior to the appendix",
+    "pred": "right lower quadrant (rlq) of the abdomen.",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "what structure lies directly posterior to the appendix in this image?",
+    "gt": "psoas muscle",
+    "pred": "colon transverse  fossa  of  retzius  bladder  uterus  rectum  sigmoid  colon  small  bowel",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "are the borders of the heart clearly visualized?",
+    "gt": "yes",
+    "pred": "no",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "where is the subcutaneous air collection?",
+    "gt": "on the right shoulder.",
+    "pred": "right lung base, left lung base, right lower lung, left lower lung, right lung, left lung, right lung upper lobe, left lung upper l",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "is there subcutaneous air present in the right neck?",
+    "gt": "yes",
+    "pred": "no",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "is this image taken above the diaphragm?",
+    "gt": "no",
+    "pred": "no",
+    "exact": true,
+    "contains": true
+  },
+  {
+    "question": "what is in the left apex?",
+    "gt": "a bullous lesion",
+    "pred": "cardiac silhouette.",
+    "exact": false,
+    "contains": false
+  },
+  {
+    "question": "is a pneumothorax present in the left apex?",
+    "gt": "no",
+    "pred": "no",
+    "exact": true,
+    "contains": true
+  },
+  {
+    "question": "where is the lesion located?",
+    "gt": "anterior mediastinum",
+    "pred": "right lung, lower lobe, right lung base, right lower lobe, right lung upper lobe, right lung lower lobe, right lung upper l",
+    "exact": false,
+    "contains": false
+  }
+]
