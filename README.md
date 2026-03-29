@@ -2,6 +2,23 @@
 
 Fine-tuning **Qwen2-VL-7B-Instruct** on radiology image question answering using LoRA, Chain-of-Thought supervision, cross-dataset training, and two-stage output alignment.
 
+
+## Demo
+
+[![physio_g Demo](https://cdn.loom.com/sessions/thumbnails/e4a159f73af24836942f85916a491280-with-play.gif)](https://www.loom.com/share/e4a159f73af24836942f85916a491280)
+
+> Upload a radiology image and ask a clinical question. The model returns a concise answer based on two-stage LoRA fine-tuning (CoT reasoning + output alignment).
+
+**Demo cases shown:**
+| Image Type | Question | Answer |
+|------------|----------|--------|
+| Chest X-ray | Is there any intraparenchymal abnormalities in the lung fields? | no |
+| Abdominal X-ray | Is there evidence of small bowel obstruction on this image? | yes |
+| Chest X-ray | Is this a CT image? | no |
+| Brain CT | What is the plane of this image? | axial |
+| Chest CT | What is the location of the cavitary lesion? | right upper lobe |
+| Brain MRI | What lobe of the brain is the lesion located in? | right frontal lobe |
+
 ## Overview
 
 This project systematically evaluates training strategies for medical VQA on VQA-RAD and SLAKE. The core research question is: **can CoT supervision improve reasoning quality without sacrificing exact match performance?**
